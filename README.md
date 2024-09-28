@@ -4,7 +4,7 @@
 * All presented with the help of a cute turtle partner who will accompany you on your healing journey. Whether you're seeking relaxation, inspiration, or a way to center yourself, Happy Healing is always here for you.
 
 <p align="center">
-  <img src="https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/logo.png" alt="Logo" width="300" />
+  <img src="https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Happy%20Healing%20Logo.png" alt="Logo" width="300" />
 </p>
 
 
