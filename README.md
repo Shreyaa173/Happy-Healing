@@ -14,11 +14,8 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 
 ## Why Choose Us
 
-### 1. Professional Expertise
-- **Experienced Photographers:** Skilled in various event types.
-- **Artistic Excellence:** Capturing the true essence and emotion of your event.
 
-### 2. Convenience and Ease of Use
+### 1. Convenience and Ease of Use
 - **Simple Booking Process:** Easy to find, compare, and book.
 - **Customized Packages:** Tailored to fit your specific needs and budget.
 
@@ -30,20 +27,17 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 - **High-Quality Equipment:** Latest tools and techniques.
 - **Post-Processing Excellence:** Professional editing for picture-perfect images.
 
-### 5. Customer Support
-- **Dedicated Support Team:** Always available for assistance.
+### 5. Emergency Support
+- **Dedicated Support Bot:** Always available for assistance.
 - **Flexible Scheduling:** Responsive to changes in plans.
 
 ### 6. Memorable Experience
 - **Personalized Service:** Reflects your style and expectations.
 - **Lasting Memories:** Beautiful, high-quality photos to treasure forever.
 
-Choose Pixel Palette for a seamless, professional, and unforgettable photography experience.
+♡ Make Happy Healing your helping hand through the highs and lows ♡
 
-Join Us Today!
 
-Start earning tokens and unlock a world of rewards by signing up for our loyalty program today. It's completely free and only takes a moment.
-Together, let's make your shopping experience even more rewarding!
 
 ## Future Scope
 
