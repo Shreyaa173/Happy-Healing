@@ -10,7 +10,7 @@
 
 
 ## Welcome to Happy Healing
-Are you looking to capture the most memorable moments of your events with professional finesse? Welcome to Pixel Palette, the premier platform for booking top-tier photography teams. Whether it's a wedding, corporate event, birthday celebration, or any special occasion, our talented photographers are here to provide you with stunning, high-quality images that you'll cherish forever.
+Are you looking to improve your mental well-being with easy-to-follow resources and soothing guidance? Happy Healing is designed to offer a safe space where you can relax, reflect, and grow. Whether you're new to mindfulness or experienced, our platform has something for everyone, all with a focus on positivity and healing.
 
 ## Why Choose Us
 
