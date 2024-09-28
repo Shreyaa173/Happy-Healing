@@ -1,8 +1,7 @@
 # Happy Healing: 
-* Pixel Palette is a web app I built using modern web development to empower photographer teams managing events.
-* It tackles communication hurdles by offering features like chat, task management, and file sharing - all within a central platform.
-* Photographers can organize event details, shot lists, client briefs, and schedules, ensuring everyone stays on the same page.
-* Pixel Palette simplifies workflow by assigning tasks and tracking progress, streamlining the event photography experience for both the team and the client.
+* Happy Healing, a website dedicated to nurturing mental well-being through a holistic approach.
+* It offers a wide range of resources, from meditation techniques, sound therapy, AI bot consultation to daily affirmations.
+* All presented with the help of a cute turtle partner who will accompany you on your healing journey. Whether you're seeking relaxation, inspiration, or a way to center yourself, Happy Healing is always here for you.
 
 <p align="center">
   <img src="https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/logo.png" alt="Logo" width="300" />
