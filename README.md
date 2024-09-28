@@ -1,4 +1,4 @@
-# Pixel-Pallete: A Collaborative Hub for Photographer Teams
+# Happy Healing: 
 * Pixel Palette is a web app I built using modern web development to empower photographer teams managing events.
 * It tackles communication hurdles by offering features like chat, task management, and file sharing - all within a central platform.
 * Photographers can organize event details, shot lists, client briefs, and schedules, ensuring everyone stays on the same page.
@@ -10,7 +10,7 @@
 
 
 
-## Welcome to Pixel Palette
+## Welcome to Happy Healing
 Are you looking to capture the most memorable moments of your events with professional finesse? Welcome to Pixel Palette, the premier platform for booking top-tier photography teams. Whether it's a wedding, corporate event, birthday celebration, or any special occasion, our talented photographers are here to provide you with stunning, high-quality images that you'll cherish forever.
 
 ## Why Choose Us
