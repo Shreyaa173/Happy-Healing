@@ -2,7 +2,7 @@
 - Happy Healing, a website dedicated to nurturing mental well-being through a holistic approach.
 - It offers a wide range of resources, from meditation techniques, sound therapy, AI bot consultation to daily affirmations.
 - All presented with the help of a cute turtle partner who will accompany you on your healing journey. Whether you're seeking relaxation, inspiration, or a way to center yourself, Happy Healing is always here for you.
-- 
+
 <p align="center">
   <img src="https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Logo.jpg" alt="Logo" width="300" />
 </p>
