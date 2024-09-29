@@ -19,27 +19,25 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 - **Simple Booking Process:** Easy to find, compare, and book.
 - **Customized Packages:** Tailored to fit your specific needs and budget.
 
-### 3. Reliability and Trust
+### 2. Reliability and Trust
 - **Verified Professionals:** Thoroughly vetted photographers.
 - **Guaranteed Availability:** Exclusive reservation for your event.
 
-### 4. Exceptional Results
+### 3. Exceptional Results
 - **High-Quality Equipment:** Latest tools and techniques.
 - **Post-Processing Excellence:** Professional editing for picture-perfect images.
 
-### 5. Emergency Support
+### 4. Emergency Support
 - **Dedicated Support Bot:** Always available for assistance.
 - **Flexible Scheduling:** Responsive to changes in plans.
 
-### 6. Memorable Experience
+### 5. Memorable Experience
 - **Personalized Service:** Reflects your style and expectations.
 - **Lasting Memories:** Beautiful, high-quality photos to treasure forever.
 
 ♡ Make Happy Healing your helping hand through the highs and lows ♡
 
-
-
-## Future Scope
+<!-- ## Future Scope
 
 ### 1. Expanded Services
 - **Videography:** Introducing professional videography services to complement our photography offerings.
@@ -63,16 +61,14 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 
 ### 6. Sustainable Practices
 - **Eco-Friendly Operations:** Implementing sustainable practices in our operations, such as digital delivery of photos and eco-friendly packaging for printed materials.
-- **Green Initiatives:** Partnering with eco-conscious vendors and promoting sustainable event practices.
-
-Pixel Palette is committed to continuous improvement and innovation, ensuring that we remain at the forefront of the photography booking industry. Stay tuned for exciting new features and services designed to enhance your event photography experience.
+- **Green Initiatives:** Partnering with eco-conscious vendors and promoting sustainable event practices. 
 
 ## Let's Create Memories Together
-Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime.
+Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime. 
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript,
+**Client:** Working on it
 
 **Server:** Working on it
 
@@ -98,14 +94,14 @@ Your event deserves the best photography, and Pixel Palette is here to make it h
 Clone the project
 
 ```bash
-  git clone https://github.com/Shreyaa173/Pixel-Pallete
+  git clone https://github.com/Shreyaa173/Happy-Healing
 ```
 
 Go to the project directory
 
 ```bash
-  cd pixel-pallete
+  cd happy-healing
 ```
 
 ##
-Thankyou for visiting my project. 
+Thankyou for visiting my project. -->
