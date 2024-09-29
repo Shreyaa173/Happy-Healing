@@ -15,25 +15,6 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 ## Why Choose Us
 
 
-### 1. Convenience and Ease of Use
-- **Simple Booking Process:** Easy to find, compare, and book.
-- **Customized Packages:** Tailored to fit your specific needs and budget.
-
-### 2. Reliability and Trust
-- **Verified Professionals:** Thoroughly vetted photographers.
-- **Guaranteed Availability:** Exclusive reservation for your event.
-
-### 3. Exceptional Results
-- **High-Quality Equipment:** Latest tools and techniques.
-- **Post-Processing Excellence:** Professional editing for picture-perfect images.
-
-### 4. Emergency Support
-- **Dedicated Support Bot:** Always available for assistance.
-- **Flexible Scheduling:** Responsive to changes in plans.
-
-### 5. Memorable Experience
-- **Personalized Service:** Reflects your style and expectations.
-- **Lasting Memories:** Beautiful, high-quality photos to treasure forever.
 
 ♡ Make Happy Healing your helping hand through the highs and lows ♡
 
