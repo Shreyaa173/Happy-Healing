@@ -1,0 +1,36 @@
+.breathing-techniques-page {
+    padding: 20px;
+    text-align: center;
+    margin-top: 70px;
+  }
+  
+  .technique-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Space between cards */
+  }
+  
+  .technique-card {
+    background-color: #f8f8f8; /* Card background */
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px; /* Fixed width */
+    transition: transform 0.3s ease;
+    text-decoration: none;
+  }
+  
+  .technique-card:hover {
+    transform: scale(1.05); /* Scale on hover */
+  }
+  
+  .technique-content h3 {
+    margin: 0;
+  }
+  
+  .technique-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+    object-fit: cover;
+  }
