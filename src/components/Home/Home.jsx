@@ -8,16 +8,16 @@ const Home = () => {
         <Navbar />
         <div className="images">
           <div className="home-image">
-            <img src="./Graphics/home-image.jpeg" alt="" />
+            <img src="../Graphics/home-image.jpeg" alt="" />
           </div>
           <div className="home-text">
-            <img src="./Graphics/home-text.jpeg" alt="" />
+            <img src="../Graphics/home-text.jpeg" alt="" />
             <div className="home-button">
               <button>Heal Now</button>
             </div>
           </div>
         </div>
-        <img src="./Graphics/leaf.png" className="leaf" alt="" />
+        <img src="../Graphics/leaf.png" className="leaf" alt="" />
       </div>
     </>
   );
