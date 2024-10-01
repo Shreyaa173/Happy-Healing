@@ -6,9 +6,12 @@
 
 body {
   width: 100vw;
-  height: auto;
   overflow-x: hidden;
   background-color: white;
+}
+
+.home{
+  height: 100vh;
 }
 
 .images {
