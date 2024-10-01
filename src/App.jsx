@@ -18,7 +18,8 @@ function App() {
       {/* <Login /> */}
       <Home />
       <Faq />
-    </>
+      
+      </>
   )
 }
 
