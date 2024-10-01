@@ -34,11 +34,18 @@
     height: 150px; /* Height of the animation box */
     border: 2px solid #7e60bf; /* Border color */
     border-radius: 10px; /* Rounded corners */
-    display: flex;
+    display: grid;
     align-items: center;
     justify-content: center;
     overflow: hidden; /* Hide overflow of the ball */
     background-color: white; /* Background color for the animation box */
+  }
+
+  .breathing-box {
+    width: 100%;
+    height: 100%;
+    justify-self: center;
+    align-content: center;
   }
   
   .breathing-block {
@@ -52,13 +59,10 @@
   }
   
   .breathing-ball {
-    position: absolute; /* Position the ball absolutely within the animation box */
     width: 30px; /* Width of the breathing ball */
     height: 30px; /* Height of the breathing ball */
     background-color: #7e60bf; /* Ball color */
     border-radius: 50%; /* Make it circular */
-    left: 50%; /* Center the ball horizontally */
-    transform: translate(-50%, 0); /* Center it properly */
   }
   
   /* Keyframes for moving blocks left */
