@@ -58,6 +58,11 @@
     color: white;
 }
 
+.button button a{
+    color: white;
+    text-decoration: none;
+}
+
 .button button:hover{
     background-color: #b690d7;
     font-weight: 700;

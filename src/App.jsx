@@ -11,9 +11,11 @@ import BellyBliss from './components/Relax/BreatheEasy/Techniques/BellyBliss';
 import Resources from "./components/Resources/Resources";
 import Faq from "./components/Faq/Faq";
 import Navbar from "./components/Home/Navbar/Navbar";
+import Login from './components/Login/Login';
 
 function App() {
   return (
+    <>
     <Router>
       <Navbar />
       <Routes>
@@ -24,10 +26,12 @@ function App() {
             <Route path="/mindfulness/breathe-easy/belly-bliss" element={<BellyBliss />} /> 
 
         <Route path="/resources" element={<Resources />} />
-
+    
         <Route path="/faq" element={<Faq />} />
+        <Route path="/login" element={<Login />} />
       </Routes>
     </Router>
+    </>
   );
 }
 
