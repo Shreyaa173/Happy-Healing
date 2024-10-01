@@ -10,20 +10,20 @@ body {
   overflow-x: hidden;
 }
 
-
-.home{
+.home {
   height: 100vh;
   background-color: white;
+  position: relative;
 }
 
 .images {
   display: flex;
   justify-content: space-evenly;
   padding-top: 120px;
-  /* margin-left: 50px; */
+  flex-wrap: wrap; 
 }
 
-.home-image img{
+.home-image img {
   margin-left: -100px;
   height: 500px;
   width: 400px;
@@ -38,10 +38,14 @@ body {
   transform: scale(1.1);
 }
 
+.home-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .home-button {
-  position: absolute;
-  right: 43vw;
-  bottom: 100px;
+  margin-top: 5px;
 }
 
 .home-button button {
@@ -63,10 +67,10 @@ body {
 }
 
 .leaf {
-  height: 140px;
-  position: absolute;
-  right: 20px;
-  bottom: 35px;
-  transform: scale(1.5);
+  position: fixed;
+  right: 3vw; 
+  bottom: 2.5vh; 
+  width: 140px;
+  height: auto;
+  transform: scale(2.5);
 }
-
