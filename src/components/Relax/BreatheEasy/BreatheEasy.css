@@ -1,7 +1,14 @@
 .breathing-techniques-page {
+    background-color: #7e60bf;
     padding: 20px;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 70px;    
+    min-height: calc(100vh - 70px);
+  }
+
+  .breathing-techniques-page h1 {
+    color: white;
+    margin-bottom: 20px;
   }
   
   .technique-container {
@@ -26,6 +33,7 @@
   
   .technique-content h3 {
     margin: 0;
+    color: #7e60bf;
   }
   
   .technique-content img {
