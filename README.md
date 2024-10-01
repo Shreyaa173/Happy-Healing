@@ -4,10 +4,8 @@
 - All presented with the help of a cute turtle partner who will accompany you on your healing journey. Whether you're seeking relaxation, inspiration, or a way to center yourself, Happy Healing is always here for you.
 
 <p align="center">
-  <img src="https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Happy%20Healing%20Logo.png" alt="Logo" width="300" />
+  <img src="https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Logo.jpg" alt="Logo" width="300" />
 </p>
-
-
 
 ## Welcome to Happy Healing
 Are you looking to improve your mental well-being with easy-to-follow resources and soothing guidance? Happy Healing is designed to offer a safe space where you can relax, reflect, and grow. Whether you're new to mindfulness or experienced, our platform has something for everyone, all with a focus on positivity and healing.
@@ -15,25 +13,6 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 ## Why Choose Us
 
 
-### 1. Convenience and Ease of Use
-- **Simple Booking Process:** Easy to find, compare, and book.
-- **Customized Packages:** Tailored to fit your specific needs and budget.
-
-### 2. Reliability and Trust
-- **Verified Professionals:** Thoroughly vetted photographers.
-- **Guaranteed Availability:** Exclusive reservation for your event.
-
-### 3. Exceptional Results
-- **High-Quality Equipment:** Latest tools and techniques.
-- **Post-Processing Excellence:** Professional editing for picture-perfect images.
-
-### 4. Emergency Support
-- **Dedicated Support Bot:** Always available for assistance.
-- **Flexible Scheduling:** Responsive to changes in plans.
-
-### 5. Memorable Experience
-- **Personalized Service:** Reflects your style and expectations.
-- **Lasting Memories:** Beautiful, high-quality photos to treasure forever.
 
 ♡ Make Happy Healing your helping hand through the highs and lows ♡
 

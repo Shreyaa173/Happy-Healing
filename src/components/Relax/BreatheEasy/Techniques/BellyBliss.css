@@ -1,0 +1,72 @@
+.breathing-technique {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 70px); 
+    margin-top: 70px;
+    padding: 20px;
+    background-color: #7e60bf; /* Light background color */
+    text-align: center;
+  }
+  
+  .technique-heading {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .technique-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .technique-description {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    padding: 0 10px; /* Add padding for better readability */
+  }
+  
+  .animation-box {
+    position: relative; /* Position for absolute child elements */
+    width: 150px; /* Width of the animation box */
+    height: 150px; /* Height of the animation box */
+    border: 2px solid #7e60bf; /* Border color */
+    border-radius: 10px; /* Rounded corners */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; /* Hide overflow of the ball */
+    background-color: white; /* Background color for the animation box */
+  }
+  
+  .breathing-block {
+    position: absolute; /* Position blocks absolutely within the animation box */
+    width: 5px; /* Reduced block width */
+    height: 5px; /* Reduced block height */
+    background-color: #7e60bf; /* Block color */
+    bottom: 0; /* Align blocks to the bottom */
+    right: -5px; /* Start just outside the right edge */
+    animation: moveLeft 1.5s linear forwards; /* Faster animation for moving left */
+  }
+  
+  .breathing-ball {
+    position: absolute; /* Position the ball absolutely within the animation box */
+    width: 30px; /* Width of the breathing ball */
+    height: 30px; /* Height of the breathing ball */
+    background-color: #7e60bf; /* Ball color */
+    border-radius: 50%; /* Make it circular */
+    left: 50%; /* Center the ball horizontally */
+    transform: translate(-50%, 0); /* Center it properly */
+  }
+  
+  /* Keyframes for moving blocks left */
+  @keyframes moveLeft {
+    0% {
+      right: -5px; /* Start just outside the right edge */
+    }
+    100% {
+      right: 100%; /* Move to the left and off the screen */
+    }
+  }  
