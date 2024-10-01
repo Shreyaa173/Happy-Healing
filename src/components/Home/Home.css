@@ -7,11 +7,11 @@
 body {
   width: 100vw;
   overflow-x: hidden;
-  background-color: white;
 }
 
 .home{
   height: 100vh;
+  background-color: white;
 }
 
 .images {
