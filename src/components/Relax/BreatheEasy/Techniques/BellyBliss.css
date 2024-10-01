@@ -1,76 +1,108 @@
 .breathing-technique {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: calc(100vh - 70px); 
-    margin-top: 70px;
-    padding: 20px;
-    background-color: #7e60bf; /* Light background color */
-    text-align: center;
-  }
-  
-  .technique-heading {
-    font-size: 2rem;
-    margin-bottom: 10px;
-    color: white;
-  }
-  
-  .technique-name {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  .technique-description {
-    font-size: 1rem;
-    margin-bottom: 20px;
-    padding: 0 10px; /* Add padding for better readability */
-  }
-  
-  .animation-box {
-    position: relative; /* Position for absolute child elements */
-    width: 150px; /* Width of the animation box */
-    height: 150px; /* Height of the animation box */
-    border: 2px solid #7e60bf; /* Border color */
-    border-radius: 10px; /* Rounded corners */
-    display: grid;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden; /* Hide overflow of the ball */
-    background-color: white; /* Background color for the animation box */
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 70px); 
+  margin-top: 70px;
+  padding: 20px;
+  background-color: #7e60bf;
+  text-align: center;
+}
 
-  .breathing-box {
-    width: 100%;
-    height: 100%;
-    justify-self: center;
-    align-content: center;
+.technique-heading {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.technique-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.technique-description {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+
+.animation-box {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border: 2px solid #7e60bf;
+  border-radius: 10px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: white;
+}
+
+.breathing-box {
+  width: 100%;
+  height: 100%;
+  justify-self: center;
+  align-content: center;
+  position: relative;
+}
+
+.line-pair {
+  position: absolute;
+  width: 5px; /* Line width */
+  height: 100%; /* Height of the entire container */
+}
+
+.line-up, .line-down {
+  position: absolute;
+  width: 200%; /* Extending beyond container for smooth transition */
+  height: 2px;
+  background-color: #7e60bf;
+  color: #7e60bf;
+}
+
+.line-up {
+  top: 0;
+  transform: rotate(45deg); /* Slant the line at 45 degrees */
+  animation: moveLineUp 6s linear infinite; /* Move right to left */
+}
+
+.line-down {
+  bottom: 0;
+  transform: rotate(-45deg); /* Slant the line at -45 degrees */
+  animation: moveLineDown 6s linear infinite; /* Move right to left */
+  animation-delay: 3s; /* Delay to ensure second line starts after first exits */
+}
+
+/* Ball in center */
+.breathing-ball {
+  width: 30px;
+  height: 30px;
+  background-color: #7e60bf;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%; /* Position ball in the vertical center */
+  left: 50%; /* Position ball in the horizontal center */
+  transform: translate(-50%, -50%);
+}
+
+/* Keyframes for moving the slanted lines left */
+@keyframes moveLineUp {
+  0% {
+    right: -100%; /* Start outside the container on the right */
   }
-  
-  .breathing-block {
-    position: absolute; /* Position blocks absolutely within the animation box */
-    width: 5px; /* Reduced block width */
-    height: 5px; /* Reduced block height */
-    background-color: #7e60bf; /* Block color */
-    bottom: 0; /* Align blocks to the bottom */
-    right: -5px; /* Start just outside the right edge */
-    animation: moveLeft 1.5s linear forwards; /* Faster animation for moving left */
+  100% {
+    right: 100%; /* Move off the container to the left */
   }
-  
-  .breathing-ball {
-    width: 30px; /* Width of the breathing ball */
-    height: 30px; /* Height of the breathing ball */
-    background-color: #7e60bf; /* Ball color */
-    border-radius: 50%; /* Make it circular */
+}
+
+@keyframes moveLineDown {
+  0% {
+    right: -100%; /* Start outside the container on the right */
   }
-  
-  /* Keyframes for moving blocks left */
-  @keyframes moveLeft {
-    0% {
-      right: -5px; /* Start just outside the right edge */
-    }
-    100% {
-      right: 100%; /* Move to the left and off the screen */
-    }
-  }  
+  100% {
+    right: 100%; /* Move off the container to the left */
+  }
+}

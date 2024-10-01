@@ -6,27 +6,29 @@ const BellyBliss = () => {
   const actualname = "Diaphragmatic Breathing";
   const description = "This technique involves diaphragmatic breathing to promote relaxation and calmness.";
 
-  // Belly Bliss Breathing Animation Component
   const BreathingAnimationBellyBliss = () => {
-    const [blocks, setBlocks] = useState([]);
+    const [lines, setLines] = useState([]);
 
     useEffect(() => {
-      const createBlock = () => {
-        setBlocks(prevBlocks => [
-          ...prevBlocks,
-          { id: Date.now(), animation: 'animate' } // Add new block with animation class
+      const createLine = () => {
+        setLines(prevLines => [
+          ...prevLines,
+          { id: Date.now() }
         ]);
       };
 
-      const interval = setInterval(createBlock, 1000); // Create a new block every second
+      const interval = setInterval(createLine, 1000); // Create new line pair every second
 
-      return () => clearInterval(interval); // Cleanup interval on unmount
+      return () => clearInterval(interval); // Clean up interval on unmount
     }, []);
 
     return (
       <div className="breathing-box">
-        {blocks.map(block => (
-          <div key={block.id} className={`breathing-block ${block.animation}`}></div>
+        {lines.map(line => (
+          <div key={line.id} className="line-pair">
+            <div className="line-up"></div>
+            <div className="line-down"></div>
+          </div>
         ))}
         <div className="breathing-ball"></div>
       </div>
