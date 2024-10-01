@@ -11,11 +11,7 @@ body{
 
 .faq{
     height: 90vh;
-<<<<<<< HEAD
     background-image: url("./Images/faq.jpg");
-=======
-    background-image: url("../Graphics/faq.jpg");
->>>>>>> 61c75e032e24225a149919cd5a8f731595ff6932
     background-repeat: no-repeat;
     background-size: 100% 100%;    
 }

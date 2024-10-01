@@ -10,7 +10,6 @@ body {
   font-family: 'Montserrat', sans-serif;
   width: 100vw;
   overflow-x: hidden;
-<<<<<<< HEAD
 }
 
 .nav {
@@ -74,8 +73,6 @@ body {
 .button button:hover{
     background-color: #b690d7;
     font-weight: 700;
-=======
->>>>>>> 61c75e032e24225a149919cd5a8f731595ff6932
 }
 
 .home{
