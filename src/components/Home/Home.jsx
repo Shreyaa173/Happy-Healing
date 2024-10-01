@@ -11,7 +11,7 @@ const Home = () => {
             <img src="../Graphics/home-image.jpeg" alt="" />
           </div>
           <div className="home-text">
-            <img src="./Graphics/home-text.jpeg" alt="" />
+            <img src="../Graphics/home-text.jpeg" alt="" />
             <div className="home-button">
               <button>Heal Now</button>
             </div>
