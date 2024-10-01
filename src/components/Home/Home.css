@@ -1,12 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
+ 
 body {
+  font-family: 'Montserrat', sans-serif;
   width: 100vw;
   overflow-x: hidden;
+}
+
+.nav {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 10px 40px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo img{
+    width: 130px;
+    margin-top: -10px;
+}
+
+.navItems{
+    width: 400px;
+}
+
+.navItems ul{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+
+.navItems ul li{
+    text-decoration: none;
+    display: flex;
+    padding-left: 0;
+}
+
+.navItems ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.navItems ul li a:hover{
+    font-weight: 600;
+}
+
+.button button{
+    width: 100px;
+    height: 40px;
+    background-color: #b690d7;
+    border-radius: 30px;
+    border: 1.5px solid #b690d7;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 5px;
+    color: white;
+}
+
+.button button:hover{
+    background-color: #b690d7;
+    font-weight: 700;
 }
 
 .home{

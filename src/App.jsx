@@ -10,7 +10,6 @@ import BellyBliss from './components/Relax/BreatheEasy/Techniques/BellyBliss';
 
 import Resources from "./components/Resources/Resources";
 import Faq from "./components/Faq/Faq";
-import Navbar from "./components/Home/Navbar/Navbar";
 
 function App() {
   return (
