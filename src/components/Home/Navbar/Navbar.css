@@ -13,11 +13,10 @@
     z-index: 1000;
     background-color: #f8f4ff;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    color: white;
 }
 
 .logo p{
-    color: black;
+    color: #472e5c;
 }
 
 .logo img {
@@ -43,7 +42,7 @@
 
 .navItems ul li a{
     text-decoration: none;
-    color: black;
+    color: #472e5c;
 }
 
 .navItems ul li a:hover{
@@ -64,7 +63,7 @@
 }
 
 .button button a{
-    color: black;
+    color: #472e5c;
     text-decoration: none;
 }
 
