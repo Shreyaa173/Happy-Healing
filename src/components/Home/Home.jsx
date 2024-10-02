@@ -10,7 +10,6 @@ const Home = () => {
 
       
       <div className="home">
-        <Navbar />
         <div className="images">
           <div className="home-image">
             <img src= {Image1} alt="" />

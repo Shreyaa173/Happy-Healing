@@ -11,8 +11,13 @@
     top: 0;
     width: 100%;
     z-index: 1000;
-    background-color: white;
+    background-color: #f8f4ff;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    color: white;
+}
+
+.logo p{
+    color: black;
 }
 
 .logo img {
@@ -59,7 +64,7 @@
 }
 
 .button button a{
-    color: white;
+    color: black;
     text-decoration: none;
 }
 

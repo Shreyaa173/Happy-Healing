@@ -5,7 +5,7 @@
 }
 
 .login{
-  background-image: url("./assets/1.jpg");
+  background-image: url("./assets/About-us.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -60,14 +60,14 @@
 
 .featured-words{
   text-align: center;
-  color: #fff;
+  color:  #382a56;
   width: 300px;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 .featured-words span{
   font-weight: 600;
-  color: #21264d;
+  color:  #382a56;
 }
 
 .col-2{
@@ -101,7 +101,7 @@
 }
 
 .btn-1{
-  background-color: #21264d;
+  background-color: #382a56;
 }
 
 .btn:hover{

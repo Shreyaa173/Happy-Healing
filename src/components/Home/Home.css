@@ -20,21 +20,19 @@ body {
   display: flex;
   justify-content: space-evenly;
   padding-top: 120px;
-  flex-wrap: wrap; 
+  position: relative;
 }
 
 .home-image img {
-  margin-left: -100px;
-  height: 500px;
-  width: 400px;
+  margin-left: -5vw;
+  width: 27vw;
   transform: scale(1.1);
   background: transparent;
 }
 
 .images .home-text img {
-  margin-top: 50px;
-  height: 400px;
-  width: 600px;
+  margin-top: 5vh;
+  width: 40vw;
   transform: scale(1.1);
 }
 
@@ -49,12 +47,12 @@ body {
 }
 
 .home-button button {
-  width: 120px;
-  height: 45px;
+  width: 8vw;
+  height: 6vh;
   background-color: #b690d7;
-  border: 1.5px solid #b690d7;
+  border: 1px solid #b690d7;
   border-radius: 30px;
-  font-size: 18px;
+  font-size: 1.2vw;
   font-weight: 500;
   cursor: pointer;
   color: white;
@@ -70,7 +68,38 @@ body {
   position: fixed;
   right: 3vw; 
   bottom: 2.5vh; 
-  width: 140px;
+  width: 12vw;
   height: auto;
   transform: scale(2.5);
+}
+
+@media (max-width: 600px) {
+  .images{
+    margin-left: 5%;
+  }
+
+  .container {
+    width: 90%;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+  .images{
+    margin-left: 5%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {
+  .images{
+    margin-left: 5%;
+  }
+
+  .leaf {
+    position: fixed;
+    right: 3vw; 
+    bottom: 2.5vh; 
+    width: 12vw;
+    height: auto;
+    transform: scale(2.5);
+  }
 }
