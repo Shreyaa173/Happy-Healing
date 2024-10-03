@@ -1,5 +1,6 @@
 .breathing-techniques-page {
-    background-color: #cab3fc;
+    background-image: url('../Images/Resources.jpg');
+    background-size: cover;
     padding: 20px;
     text-align: center;
     margin-top: 70px;    

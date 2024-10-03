@@ -1,0 +1,5 @@
+.resources{
+    height: 100vh;
+    background-image: url('./Resources.jpg');
+    background-size: cover;
+}

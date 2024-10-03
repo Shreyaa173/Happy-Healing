@@ -16,23 +16,21 @@ import Grid from "./components/Grid/Grid";
 
 function App() {
   return (
-    <Router>
-      <Navbar />
+    <>
+     <Navbar />
+     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-
         <Route path="/healing" element={<Grid />} />
-
-        <Route path="/mindfulness" element={<Relax />}>
-          <Route path="breathe-easy" element={<BreathingTechniques />}>
-            <Route path="belly-bliss" element={<BellyBliss />} />
-          </Route>
-        </Route>
+        <Route path="/mindfulness" element={<Relax />} />
+          <Route path="/mindfulness/breathe-easy" element={<BreathingTechniques />} />
+            <Route path="/mindfulness/breathe-easy/belly-bliss" element={<BellyBliss />} /> 
         <Route path="/resources" element={<Resources />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/login" element={<Login />} />
       </Routes>
     </Router>
+    </>
   );
 }
 

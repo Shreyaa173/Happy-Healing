@@ -13,12 +13,15 @@
 }
 
 .pin_container{
-   width: 100%;
-   height: 100vh;
-   position: absolute;
-   left: 50%;
-   margin-top: 5%;
-   transform: translateX(-50%);
+    background-image: url('./assets/Resources.jpg');
+    background-repeat: repeat-y;
+    background-size: contain;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    margin-top: 5%;
+    transform: translateX(-50%);
     display: grid;
     grid-template-columns: repeat(auto-fill, var(--card-width));
     grid-auto-rows: var(--row_increment);

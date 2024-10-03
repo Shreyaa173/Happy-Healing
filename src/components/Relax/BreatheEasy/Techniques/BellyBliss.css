@@ -6,7 +6,8 @@
   height: calc(100vh - 70px); 
   margin-top: 70px;
   padding: 20px;
-  background-color: #7e60bf;
+  background-image: url('../../Images/Resources.jpg');
+  background-size: cover;
   text-align: center;
 }
 

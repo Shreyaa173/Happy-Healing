@@ -1,5 +1,6 @@
 .relax-page {
-    background-color: #cab3fc;
+    background-image: url('./Images/Resources.jpg');
+    background-size: cover;
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
