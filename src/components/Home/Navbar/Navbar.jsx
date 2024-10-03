@@ -14,6 +14,9 @@ const Navbar = () => {
                 <a href="/">Home</a>
               </li>
               <li>
+                <a href="/healing">Healings</a>
+              </li>
+              <li>
                 <a href="/mindfulness">Mindfulness</a>
               </li>
               <li>

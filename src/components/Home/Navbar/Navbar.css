@@ -24,14 +24,9 @@
   margin-top: -0.52vw;
 }
 
-.navItems{
-    width: 400px;
-}
-
 .navItems ul{
     display: flex;
     justify-content: space-between;
-    padding-left: 0px;
 }
 
 .navItems ul li{
@@ -43,6 +38,7 @@
 .navItems ul li a{
     text-decoration: none;
     color: #472e5c;
+    padding-left: 50px;
 }
 
 .navItems ul li a:hover{
