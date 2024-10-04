@@ -96,7 +96,7 @@ body {
 
   .leaf {
     position: fixed;
-    right: 3vw; 
+    right: 0; 
     bottom: 2vh; 
     width: vw;
     height: auto;
