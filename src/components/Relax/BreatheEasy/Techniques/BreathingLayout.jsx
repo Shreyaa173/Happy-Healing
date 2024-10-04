@@ -1,5 +1,5 @@
 import React from 'react';
-import './Breathinglayout.css';
+import './BreathingLayout.css';
 
 const BreathingLayout = ({ name, actualname, description, videoSrc }) => {
   return (
