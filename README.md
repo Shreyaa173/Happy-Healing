@@ -40,6 +40,7 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 - **Community Forum**: A safe space for users to share their healing journeys and support one another.
 - **Mindfulness Challenges**: Fun and engaging challenges to build mental wellness habits over time.
 - **Personalized Recommendations**: Offering tailored resources based on users’ preferences and emotional states.
+- **Progress Tracking**: By integrating AI, we aim to offer users with insights into their healing journey's progress. 
 
 ## 2. Mobile App
 - **On-the-Go Access**: A mobile app for users to easily access resources and check-ins from anywhere.
