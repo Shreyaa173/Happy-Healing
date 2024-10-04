@@ -15,7 +15,7 @@
 .pin_container{
     background-image: url('./assets/Grid.png');
     background-repeat: repeat-y;
-    background-size: contain;
+    background-size: cover;
     height: 100%;
     width: 100%;
     position: absolute;
