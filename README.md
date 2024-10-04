@@ -74,8 +74,7 @@ Your event deserves the best photography, and Pixel Palette is here to make it h
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/BestShots.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Popup.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Book%20now.png)
-
---!>
+-->
 
 ## Contributing
 
