@@ -71,23 +71,19 @@ Your well-being deserves the best care, and Happy Healing is here to guide you. 
 
 ## Snippets From Happy Healing
 
-<p align="center">
-  <img src= "Graphics/Landing Page.png" alt="Logo"  />
-</p>
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
 
 <p align="center">
   <img src= "Graphics/FAQs.png" alt="Logo"  />
 </p>
 
-
-![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Landing%20Page.png)
-<!--
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage-Navbar.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/2nd%20Page.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/BestShots.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Popup.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Book%20now.png)
--->
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
 
 ## Contributing
 
@@ -112,3 +108,5 @@ Go to the project directory
 
 ##
 Thankyou for visiting our project. 
+Love, 
+Team Happy Healing!
