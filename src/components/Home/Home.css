@@ -37,6 +37,7 @@ body {
 }
 
 .images .home-text img {
+  margin-top: 4vw;
   width: 40vw;
   transform: scale(1.1);
 }
