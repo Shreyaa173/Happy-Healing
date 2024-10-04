@@ -17,37 +17,37 @@ const BreathingTechniques = () => {
       title: "Box of Calm", 
       actualname: "Box Breathing",
       description: "A technique to calm the mind by focusing on breath patterns.", 
-      link: "/box-breathing" 
+      link: "/mindfulness/breathe-easy/box-of-calm" 
     },
     { 
       title: "Slumber Sound Breathing", 
       actualname: "4-7-8 Breathing",
       description: "A simple method to help you fall asleep faster.", 
-      link: "/4-7-8-breathing" 
+      link: "/mindfulness/breathe-easy/slumber-sound" 
     },
     { 
       title: "Nostril Navigator", 
       actualname: "Alternate Nostril Breathing",
       description: "Balances the body and mind through alternate nostril breathing.", 
-      link: "/alternate-nostril-breathing" 
+      link: "/mindfulness/breathe-easy/nostril-navigator" 
     },
     { 
       title: "Pursed Peace", 
       actualname: "Pursed Lip Breathing",
       description: "Helps to control shortness of breath by using pursed lips.", 
-      link: "/pursed-lip-breathing" 
+      link: "/mindfulness/breathe-easy/pursed-peace" 
     },
     { 
       title: "Buzzing Bumblebee Breathing", 
       actualname: "Bhramari Breathing",
       description: "A humming breath technique that calms the mind and body.", 
-      link: "/bhramari-breathing" 
+      link: "/mindfulness/breathe-easy/buzzing-bumblebee" 
     },
     { 
       title: "Kapalabhati Kickstart", 
       actualname: "Kapalabhati Breathing",
       description: "A rapid, forceful breathing technique that energizes the body.", 
-      link: "/kapalabhati-breathing" 
+      link: "/mindfulness/breathe-easy/kapalbhati-kickstart" 
     },
   ];
 
