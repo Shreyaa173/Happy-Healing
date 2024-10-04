@@ -8,8 +8,9 @@
   }
 
   .breathing-techniques-page h1 {
-    color: white;
+    color: #7e60bf;
     margin-bottom: 20px;
+    padding-top: 0;
   }
   
   .technique-container {
