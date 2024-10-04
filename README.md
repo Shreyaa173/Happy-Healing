@@ -37,38 +37,29 @@ Expertly Curated Content: Each resource is selected to promote healing, mindfuln
 
 ## Future Scope
 
-### 1. Expanded Services
-- **Videography:** Introducing professional videography services to complement our photography offerings.
-- **Event Planning:** Collaborations with event planners to offer comprehensive event packages.
+## 1. Expanded Features
+- Community Forum: A safe space for users to share their healing journeys and support one another.
+- Mindfulness Challenges: Fun and engaging challenges to build mental wellness habits over time.
+- Personalized Recommendations: Offering tailored resources based on users’ preferences and emotional states.
 
-### 2. Advanced Technology
-- **AI-Driven Matching:** Implementing AI to better match clients with the perfect photography team based on event type, style preferences, and budget.
-- **Augmented Reality Previews:** Allowing clients to visualize setups and photographer positions in their event spaces using AR technology.
+## 2. Mobile App
+- On-the-Go Access: A mobile app for users to easily access resources and check-ins from anywhere.
 
-### 3. Enhanced User Experience
-- **Mobile App:** Developing a mobile application for easier access and on-the-go booking.
-- **Client Dashboard:** Creating a personalized dashboard for clients to manage bookings, view portfolios, and track progress.
+## 3. AI Integration
+- AI-Driven Journaling Prompts: Suggestions for journaling prompts based on mood and previous entries.
+- Mental Health Insights: Offering insights based on journal entries and check-ins to help users track their progress.
 
-### 4. Global Expansion
-- **International Services:** Expanding our network to include photographers from around the world, catering to destination events.
-- **Multilingual Support:** Providing support and services in multiple languages to accommodate a diverse clientele.
-
-### 5. Community and Engagement
-- **Photography Workshops:** Offering workshops and tutorials from our professional photographers to engage and educate our community.
-- **Client Stories:** Showcasing successful event stories and testimonials to inspire and inform potential clients.
-
-### 6. Sustainable Practices
-- **Eco-Friendly Operations:** Implementing sustainable practices in our operations, such as digital delivery of photos and eco-friendly packaging for printed materials.
-- **Green Initiatives:** Partnering with eco-conscious vendors and promoting sustainable event practices. 
+## 4. Global Reach
+- Multilingual Support: Expanding to include resources and services in multiple languages to cater to a global audience.
 
 ## Let's Create Memories Together
 Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime. 
 
+<!--
+
 ## Tech Stack
 
-**Client:** Working on it
 
-**Server:** Working on it
 
 ## Screenshots
 
@@ -79,6 +70,7 @@ Your event deserves the best photography, and Pixel Palette is here to make it h
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Popup.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Book%20now.png)
 
+--! >
 
 ## Contributing
 
