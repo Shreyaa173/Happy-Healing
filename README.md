@@ -3,7 +3,7 @@
 - It offers a wide range of resources, from meditation techniques, sound therapy, AI bot consultation to daily affirmations.
 - All presented with the help of a cute turtle partner who will accompany you on your healing journey.
 - Whether you're seeking relaxation, inspiration, or a way to center yourself, Happy Healing is always here for you.
-- Let's simplify and unstigmatize mental weel- being together. 
+- Let's simplify and unstigmatize mental well- being together. 
 
 <p align="center">
   <img src="https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Logo.jpg" alt="Logo" width="400" />
