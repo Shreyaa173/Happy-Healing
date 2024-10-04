@@ -164,6 +164,15 @@ const Grid = () => {
         <div className="card card_medium">
           <img src={Image2} alt="" />
         </div>
+        <div className="card card_small">
+          <img src={Image17} alt="" />
+        </div>
+        <div className="card card_small">
+          <img src={Image11} alt="" />
+        </div>
+        <div className="card card_medium">
+          <img src={Image12} alt="" />
+        </div>
         <div className="card card_large">
           <img src={Image4} alt="" />
         </div>
@@ -199,6 +208,8 @@ const Grid = () => {
         </div>
         <div className="card card_medium">
           <img src={Image12} alt="" />
+        </div><div className="card card_small">
+          <img src={Image3} alt="" />
         </div>
         <div className="card card_large">
           <img src={Image21} alt="" />

@@ -16,9 +16,9 @@
     /* background-image: url('./assets/Mindfulness.jpg');
     background-repeat: repeat-y;
     background-size: contain; */
-    background: linear-gradient(60deg, #f5efff, #e4c7ff);
+    background: linear-gradient(90deg, #f5efff, #c28ef4);
     width: 100%;
-    margin-top: 4.5%;
+    /* margin-top: 4.5%; */
     height: auto;
     position: absolute;
     left: 50%;
