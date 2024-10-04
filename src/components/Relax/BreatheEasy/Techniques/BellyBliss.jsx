@@ -1,49 +1,26 @@
-import React, { useEffect, useState } from 'react';
-import './BellyBliss.css';
+import React from 'react';
+import BreathingLayout from './BreathingLayout';
 
 const BellyBliss = () => {
   const name = "Belly Bliss";
   const actualname = "Diaphragmatic Breathing";
-  const description = "This technique involves diaphragmatic breathing to promote relaxation and calmness.";
-
-  const BreathingAnimationBellyBliss = () => {
-    const [lines, setLines] = useState([]);
-
-    useEffect(() => {
-      const createLine = () => {
-        setLines(prevLines => [
-          ...prevLines,
-          { id: Date.now() }
-        ]);
-      };
-
-      const interval = setInterval(createLine, 1000); // Create new line pair every second
-
-      return () => clearInterval(interval); // Clean up interval on unmount
-    }, []);
-
-    return (
-      <div className="breathing-box">
-        {lines.map(line => (
-          <div key={line.id} className="line-pair">
-            <div className="line-up"></div>
-            <div className="line-down"></div>
-          </div>
-        ))}
-        <div className="breathing-ball"></div>
-      </div>
-    );
-  };
+  const description = `
+    This technique involves diaphragmatic breathing to promote relaxation and calmness.<br /><br/>
+    <div class="step">- Inhale deeply through your nose while the ball moves up.</div>
+    <div class="step">- Allow your belly to expand as you fill your lungs.</div>
+    <div class="step">- Hold your breath for a moment at the top.</div>
+    <div class="step">- Exhale slowly through your mouth while the ball moves down.</div>
+    <div class="step">- Repeat for several cycles, focusing on the rise and fall of the ball.</div>
+  `;
+  const videoSrc = "/BreathBall/DiaphgrahmicBreathing.mp4";
 
   return (
-    <div className="breathing-technique">
-      <h1 className="technique-heading">{name} Breathing</h1>
-      <h2 className="technique-name">{actualname}</h2>
-      <p className="technique-description">{description}</p>
-      <div className="animation-box">
-        <BreathingAnimationBellyBliss />
-      </div>
-    </div>
+    <BreathingLayout
+      name={name}
+      actualname={actualname}
+      description={description}
+      videoSrc={videoSrc}
+    />
   );
 };
 

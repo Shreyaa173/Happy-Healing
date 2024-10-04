@@ -3,6 +3,7 @@ import Image1 from './Images/home-image.jpeg'
 import Image2 from './Images/home-text.jpeg'
 import Image3 from './Images/leaf.png'
 import Navbar from "./Navbar/Navbar";
+import About from "../About/About"
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
         </div>
         <img src={Image3} className="leaf" alt="" />
       </div>
+      <About />
     </>
   );
 };
