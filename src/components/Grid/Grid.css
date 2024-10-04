@@ -13,14 +13,15 @@
 }
 
 .pin_container{
-    background-image: url('./assets/Resources.jpg');
+    /* background-image: url('./assets/Mindfulness.jpg');
     background-repeat: repeat-y;
-    background-size: contain;
+    background-size: contain; */
+    background: linear-gradient(60deg, #f5efff, #e4c7ff);
     width: 100%;
+    margin-top: 4.5%;
     height: auto;
     position: absolute;
     left: 50%;
-    margin-top: 5%;
     transform: translateX(-50%);
     display: grid;
     grid-template-columns: repeat(auto-fill, var(--card-width));
@@ -39,6 +40,14 @@
     height: 100%;
     object-fit: cover;
     border-radius: var(--card-border_radius);
+    transition: transform 0.5;
+    transition: box-shadow 0.5;
+    cursor: pointer;
+}
+
+.card img:hover{
+    transform: scale(1.03);
+    box-shadow: 2px 2px 7px rgba(0,0,0,0.4);
 }
 
 .card_small{

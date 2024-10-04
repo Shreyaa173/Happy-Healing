@@ -1,0 +1,64 @@
+/* Home.module.css */
+.homePage {
+  width: 100vw;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  font-size: xx-large;
+  color: #6f4eb6;
+  background: #e3cdff;
+  text-align: center;
+  height: max-content;
+  width: 100vw;
+  height: 100vh;
+  margin-top: 1.2%;
+}
+
+.homePage img {
+  width: 100vw;
+  aspect-ratio: 1.77;
+}
+
+h1 {
+  font-size: 6rem;
+  padding-top: 100px;
+  font-family: 'DreamAvenue';
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  position: relative;
+  padding: 5vw;
+  gap: 50px;
+  align-items: center;
+}
+
+.cardMain {
+  width: 20vw;
+  height: 50%;
+  object-fit: cover;
+  justify-self: center;
+  position: relative;
+  margin-bottom: 5vw;
+  align-content: center;
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 500px) {
+  .cards {
+      grid-template-columns: repeat(2, 1fr);
+  }
+  .cardMain {
+      width: 40vw; 
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .cards {
+      grid-template-columns: repeat(1, 1fr);
+  }
+  .cardMain {
+      width: 80vw; 
+  }
+}

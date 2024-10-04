@@ -1,0 +1,73 @@
+.teamsleft {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .achievementleft {
+    height: 50vh;
+    width: 25vw;
+    margin: -40px 60px -60px 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease;
+  }
+  
+  .achievementleft:hover {
+    transform: rotateY(180deg);
+  }
+  
+  .front-card {
+    height: 50vh;
+    width: 30vw;
+    display: flex;
+    backface-visibility: hidden;
+    padding: 1rem;
+    justify-content: space-around;
+    border-radius: 10px;
+    font-size: 1.4rem;
+    background-color: #5b4c7c;
+  }
+  
+  .back-card {
+    height: 50vh;
+    width: 30vw;
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    backface-visibility: hidden;
+    background-color: #c689ff;
+    transform: rotateY(180deg);
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 0.9rem;
+  }
+  
+  .achievementleft span {
+    color: rgb(255, 255, 255);
+    align-self: center;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
+
+  @media only screen and (max-width: 1200px) and (min-width: 500px) {
+    .front-card {
+      width: 40vw;
+    }
+    .back-card {
+      width: 40vw;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+  .front-card {
+    width: 80vw;
+  }
+  .back-card {
+    width: 80vw;
+  }
+}

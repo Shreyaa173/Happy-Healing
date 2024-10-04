@@ -65,12 +65,12 @@ body {
 }
 
 .leaf {
-  position: fixed;
-  right: 3vw; 
-  bottom: 2.5vh; 
-  width: 12vw;
+  position: absolute;
+  right: 2.3vw; 
+  bottom: 0; 
+  width: 15vw;
   height: auto;
-  transform: scale(2.5);
+  transform: scale(1.25);
 }
 
 @media (max-width: 600px) {
@@ -97,8 +97,8 @@ body {
   .leaf {
     position: fixed;
     right: 3vw; 
-    bottom: 2.5vh; 
-    width: 12vw;
+    bottom: 2vh; 
+    width: vw;
     height: auto;
     transform: scale(2.5);
   }
