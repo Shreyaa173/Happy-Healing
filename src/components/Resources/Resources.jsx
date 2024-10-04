@@ -31,14 +31,6 @@ const Resources = () => {
         </div>
       </Link>
 
-      <Link to="/resources/news" className="resource-container">
-        <img src={Logo} alt="News" className="resource-image" />
-        <div className="resource-content">
-          <h2>News</h2>
-          <p>Stay updated on the latest wellness trends and resources.</p>
-        </div>
-      </Link>
-
     </div>
   );
 };

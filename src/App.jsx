@@ -12,7 +12,7 @@ import BellyBliss from "./components/Relax/BreatheEasy/Techniques/BellyBliss";
 import BoxOfCalm from "./components/Relax/BreatheEasy/Techniques/BoxOfcalm";
 import BuzzingBumblebee from "./components/Relax/BreatheEasy/Techniques/BuzzingBee";
 import KapalabhatiKickstart from "./components/Relax/BreatheEasy/Techniques/KapalKick";
-import NostrilNavigator from "./components/Relax/BreatheEasy/Techniques/Nostrilnav";
+import NostrilNavigator from "./components/Relax/BreatheEasy/Techniques/NostrilNav";
 import PursedPeace from "./components/Relax/BreatheEasy/Techniques/PursedPeace";
 import SlumberSound from "./components/Relax/BreatheEasy/Techniques/SlumberSound";
 
@@ -20,6 +20,7 @@ import SlumberSound from "./components/Relax/BreatheEasy/Techniques/SlumberSound
 import Resources from "./components/Resources/Resources";
 import Articles from "./components/Resources/Article";
 import Videos from "./components/Resources/Videos";
+import CommunitySupport from "./components/Resources/CommSupport";
 
 import Faq from "./components/Faq/Faq";
 import Navbar from "./components/Home/Navbar/Navbar";
@@ -45,6 +46,7 @@ function App() {
         <Route path="/resources" element={<Resources />} />
           <Route path="/resources/articles" element={<Articles />} />
           <Route path="/resources/videos" element={<Videos />} />
+          <Route path="/resources/community-support" element={<CommunitySupport />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/login" element={<Login />} />
       </Routes>

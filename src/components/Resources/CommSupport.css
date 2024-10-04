@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin-top: 70px;
+}
+  
+.header {
+    background-color: #7e60bf;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    margin-bottom: 30px;
+}
+
+.header h2 {
+    color: white;
+}
+  
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.dropdown-header {
+    cursor: pointer;
+    color: #7e60bf;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.dropdown-header:hover {
+    color: #5e4399;
+}
+
+.section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section:hover {
+    transform: scale(1.05);  /* Increases size by 5% */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);  /* Deepens shadow */
+}
+
+.dropdown-content {
+    padding-top: 10px;
+
+}
+
+.dropdown-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+ul .lists {
+    /* background: #f9f9f9; */
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); */
+}
+
+.dropdown-content p {
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+  
+a:hover {
+    color: #7e60bf;
+}
+  
+.helpline {
+    /* background-color: #e3f2fd; */
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+  
+input[type="submit"] {
+    background-color: #7e60bf;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+input[type="submit"]:hover {
+    background-color: #7e60bf;
+}
+
+.platform-section {
+    width: 48%; 
+    margin-bottom: 20px;
+  }
+  
+  .platform-section h4 {
+    color: #7e60bf;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  ul .lists{
+    /* background: #f9f9f9; */
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); */
+  }
+  
+  ul li a {
+    color: #333;
+  }
+  
+  ul li a:hover {
+    color: #7e60bf;
+  }
+  

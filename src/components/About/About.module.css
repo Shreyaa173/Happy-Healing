@@ -1,4 +1,11 @@
-/* Home.module.css */
+@import url('https://fonts.googleapis.com/css2?family=Nimbus+Sans:wght@400;700&display=swap');
+
+.dm-serif-display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .homePage {
   width: 100vw;
   overflow-x: hidden;
@@ -6,12 +13,12 @@
   flex-direction: column;
   font-size: xx-large;
   color: #6f4eb6;
-  background: #e3cdff;
   text-align: center;
   height: max-content;
   width: 100vw;
   height: 100vh;
   margin-top: 1.2%;
+  font-family: "DM Serif Display", serif;
 }
 
 .homePage img {
@@ -20,9 +27,11 @@
 }
 
 h1 {
-  font-size: 6rem;
-  padding-top: 100px;
-  font-family: 'DreamAvenue';
+  font-family: "DM Serif Display", serif;
+  font-size: 6.5rem;
+  margin-top: 50px;
+  color: #7e60bf;
+  /* padding-top: 100px; */
 }
 
 .cards {
@@ -30,7 +39,7 @@ h1 {
   grid-template-columns: repeat(3, 1fr);
   text-align: center;
   position: relative;
-  padding: 5vw;
+  padding: 3vw;
   gap: 50px;
   align-items: center;
 }

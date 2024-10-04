@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nimbus+Sans:wght@400;700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -8,18 +10,22 @@ body {
   font-family: 'Montserrat', sans-serif;
   width: 100vw;
   overflow-x: hidden;
+  font-family: 'Nimbus Sans', sans-serif;
 }
 
 .home {
-  height: 100vh;
+  height: 90vh;
   background-color: white;
   position: relative;
+  /* background-image: url("./Images/about1.jpg");
+  background-size: cover;
+  background-repeat: repeat-y; */
 }
 
 .images {
   display: flex;
   justify-content: space-evenly;
-  padding-top: 120px;
+  padding-top: 50px;
   position: relative;
 }
 
@@ -31,7 +37,7 @@ body {
 }
 
 .images .home-text img {
-  margin-top: 5vh;
+  margin-top: 4vw;
   width: 40vw;
   transform: scale(1.1);
 }
@@ -98,7 +104,6 @@ body {
     position: fixed;
     right: 0; 
     bottom: 2vh; 
-    width: vw;
     height: auto;
     transform: scale(2.5);
   }

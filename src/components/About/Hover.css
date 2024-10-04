@@ -23,32 +23,41 @@
   
   .front-card {
     height: 50vh;
-    width: 30vw;
+    width: 25vw;
     display: flex;
     backface-visibility: hidden;
     padding: 1rem;
     justify-content: space-around;
     border-radius: 10px;
-    font-size: 1.4rem;
-    background-color: #5b4c7c;
+    font-size: 3rem;
+    background-color: #755bb0;
+    color: white;
   }
   
   .back-card {
     height: 50vh;
-    width: 30vw;
+    width: 25vw;
     display: flex;
     position: absolute;
     justify-content: space-around;
     backface-visibility: hidden;
-    background-color: #c689ff;
+    background-color: #e9d1ff;
+    color: black;
     transform: rotateY(180deg);
     padding: 1rem;
     border-radius: 10px;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
   }
   
   .achievementleft span {
-    color: rgb(255, 255, 255);
+    color: black;
+    align-self: center;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
+
+  .achievementleft .name {
+    color: white;
     align-self: center;
     overflow-wrap: break-word;
     white-space: normal;

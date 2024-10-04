@@ -5,9 +5,9 @@ import VideoThumbnail from "./Images/Logo.jpg";
 
 const videos = [
     {
-      title: "Understanding Mindfulness: The Basics",
+      title: "What is Mindfulness?",
       summary: "Learn the fundamentals of mindfulness and how it can transform your daily life.",
-      link: "https://youtu.be/j7rKKpwdXNE?si=HHhCzBnkGeM3oKLA",
+      link: "https://youtu.be/7-1Y6IbAxdM?si=qCo2xwlDuiZJM8_4",
       image: VideoThumbnail
     },
     {
@@ -17,27 +17,27 @@ const videos = [
       image: VideoThumbnail
     },
     {
-      title: "Five Simple Techniques for Stress Relief",
+      title: "Reduce Stress And Anxiety",
       summary: "Quick and effective stress relief techniques you can practice anywhere.",
-      link: "https://www.youtube.com/watch?v=ApzqWJQYIf8",
+      link: "https://youtu.be/bsaOBWUqdCU?si=GKYseEFoMO89Jk1P",
       image: VideoThumbnail
     },
     {
-      title: "Self-Care Strategies for Busy People",
+      title: "8 Self Care Ideas for Busy People",
       summary: "Effective self-care strategies for those with a packed schedule.",
-      link: "https://www.youtube.com/watch?v=cnxC0X-L6BU",
+      link: "https://youtu.be/jkm6JRODGiw?si=2HtnsYjrJTBmnaqd",
       image: VideoThumbnail
     },
     {
-      title: "Coping with Anxiety: Tips and Tricks",
+      title: "Locus of Control: Quick Coping Skill for Anxiety",
       summary: "Practical advice for managing anxiety in everyday life.",
-      link: "https://www.youtube.com/watch?v=5RtvY99a5N8",
+      link: "https://youtu.be/Q0guTERGPK0?si=d2AZKn-6gqh7wtPv",
       image: VideoThumbnail
     },
     {
-      title: "The Power of Positive Thinking",
+      title: "The Power of Positivity",
       summary: "Discover how positive thinking can impact your mental health and happiness.",
-      link: "https://www.youtube.com/watch?v=6sA09eAN2VI",
+      link: "https://youtu.be/HwLK9dBQn0g?si=8tyyd_PzcZZlPHAw",
       image: VideoThumbnail
     },
 ];  
@@ -49,7 +49,7 @@ const Videos = () => {
       <div className="videos-list">
         {videos.map((video, index) => (
           <Link to={video.link} key={index} className="video-card" target="_blank" rel="noopener noreferrer">
-            <h2>{video.title}</h2>
+            <h3>{video.title}</h3>
             <img src={video.image} alt="Video Thumbnail" />
             <p>{video.summary}</p>
           </Link>

@@ -52,25 +52,38 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 ## 4. Global Reach
 - **Breaking the language Barrier**: Why should mental well- being be constrained by linguistic barriers? So we will be introducing, *multi- lingual support* to cater to a global audience.
 
-## Let's Create Memories Together
-Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime. 
+## Let's Unstigmatize Mental Health Together ♡
+Your well-being deserves the best care, and Happy Healing is here to guide you. Explore our resources, meet your turtle companion, and start your journey to mental wellness. Let us help you create a life full of peace, positivity, and growth.
+
+
+## Technolgy Used | Tech Stack
+
+1. JavaScript
+2. CSS Modules
+3. HTML
+4. React Router
+5. Redux
+6. Versel
+7. Vite
+
+
+
+
+## Snippets From Happy Healing
+
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Mindfulness%201.png)
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FAQs.png)
 
 <!--
-
-## Tech Stack
-
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage-Navbar.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/2nd%20Page.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/BestShots.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Popup.png)
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Book%20now.png)
-
---! >
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+-->
 
 ## Contributing
 
@@ -94,4 +107,6 @@ Go to the project directory
 ```
 
 ##
-Thankyou for visiting my project. 
+Thankyou for visiting our project. 
+Love, 
+Team Happy Healing!

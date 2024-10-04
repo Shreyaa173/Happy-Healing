@@ -13,7 +13,7 @@
     align-items: center;
   }
   
-  .container {
+  .containers {
     background-color: white;
     color: #333;
     padding: 20px;
@@ -28,11 +28,11 @@
     flex-direction: column;
   }
   
-  .container:hover {
+  .containers:hover {
     transform: scale(1.05);
   }
   
-  .container img {
+  .containers img {
     width: 100%;
     height: auto;
     border-radius: 10px 10px 0 0;
