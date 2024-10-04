@@ -13,10 +13,10 @@
 }
 
 .pin_container{
-    /* background-image: url('./assets/Mindfulness.jpg');
+    background-image: url('./assets/Resources.jpg');
     background-repeat: repeat-y;
-    background-size: contain; */
-    background: linear-gradient(90deg, #f5efff, #c28ef4);
+    background-size: contain;
+    /* background: linear-gradient(90deg, #f5efff, #c28ef4); */
     width: 100%;
     /* margin-top: 4.5%; */
     height: auto;
