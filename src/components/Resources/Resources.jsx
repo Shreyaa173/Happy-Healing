@@ -2,7 +2,7 @@ import "./Resources.css"
 
 const Resources = () => {
   return (
-    <div>Resources</div>
+    <div className="resources"></div>
   )
 }
 
