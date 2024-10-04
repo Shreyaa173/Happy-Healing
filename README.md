@@ -12,7 +12,8 @@
 ## Welcome to Happy Healing
 Are you looking to improve your mental well-being with easy-to-follow resources and soothing guidance? Happy Healing is designed to offer a safe space where we *unstigamtize* mental well- being together. Here, you can relax, reflect, and grow. Whether you're new to mindfulness or experienced, our platform has something for everyone, all with a focus on positivity and healing.
 
-## Why Choose Us
+
+## Why Choose Us?
 
 ## 1. Holistic Well-Being
 - **Comprehensive Resources** : From meditation to journaling, find everything you need to foster your mental health in one place.
