@@ -12,7 +12,7 @@ import BellyBliss from "./components/Relax/BreatheEasy/Techniques/BellyBliss";
 import BoxOfCalm from "./components/Relax/BreatheEasy/Techniques/BoxOfcalm";
 import BuzzingBumblebee from "./components/Relax/BreatheEasy/Techniques/BuzzingBee";
 import KapalabhatiKickstart from "./components/Relax/BreatheEasy/Techniques/KapalKick";
-import NostrilNavigator from "./components/Relax/BreatheEasy/Techniques/Nostrilnav";
+import NostrilNavigator from "./components/Relax/BreatheEasy/Techniques/NostrilNav";
 import PursedPeace from "./components/Relax/BreatheEasy/Techniques/PursedPeace";
 import SlumberSound from "./components/Relax/BreatheEasy/Techniques/SlumberSound";
 
