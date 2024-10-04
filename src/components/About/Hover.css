@@ -40,7 +40,8 @@
     position: absolute;
     justify-content: space-around;
     backface-visibility: hidden;
-    background-color: #a28dd3;
+    background-color: #e9d1ff;
+    color: black;
     transform: rotateY(180deg);
     padding: 1rem;
     border-radius: 10px;

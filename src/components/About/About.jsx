@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <div className={styles.homePage}>
-        <h1 className={styles.heading}>ABOUT US</h1>
+        <h1 className={styles.heading}>About Us</h1>
         <div className={styles.cards}>
           <div className={styles.cardMain}>
             <HoverCard

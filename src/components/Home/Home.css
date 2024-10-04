@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nimbus+Sans:wght@400;700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -8,6 +10,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   width: 100vw;
   overflow-x: hidden;
+  font-family: 'Nimbus Sans', sans-serif;
 }
 
 .home {
@@ -101,7 +104,6 @@ body {
     position: fixed;
     right: 3vw; 
     bottom: 2vh; 
-    width: vw;
     height: auto;
     transform: scale(2.5);
   }

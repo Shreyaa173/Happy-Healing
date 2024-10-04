@@ -8,6 +8,12 @@ import Footer from "../Footer/Footer";
 import Facilities from "../Facilities/Facilities";
 
 const Home = () => {
+    const handleScroll = () => {
+      window.scrollTo({
+        top: 700,
+        behavior: 'smooth',
+      });
+    };
   return (
     <>      
       <div className="home">
@@ -18,7 +24,7 @@ const Home = () => {
           <div className="home-text">
             <img src={Image2} alt="" />
             <div className="home-button">
-              <button>Heal Now</button>
+              <button onClick={handleScroll}>Heal Now</button>
             </div>
           </div>
         </div>

@@ -3,6 +3,17 @@
   line-height: 1.5;
   font-weight: 400;
 
+body {
+    font-family: 'Nimbus Sans', sans-serif;
+}
+
+@font-face {
+  font-family: 'Nimbus Sans';
+  src: url('./fonts/NimbusSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;

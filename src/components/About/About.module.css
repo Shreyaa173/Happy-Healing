@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nimbus+Sans:wght@400;700&display=swap');
+
 .homePage {
   width: 100vw;
   overflow-x: hidden;
@@ -10,6 +12,7 @@
   width: 100vw;
   height: 100vh;
   margin-top: 1.2%;
+  font-family: 'Nimbus Sans', sans-serif;
 }
 
 .homePage img {
@@ -18,8 +21,9 @@
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 6.5rem;
   margin-top: 50px;
+  color: #7e60bf;
   /* padding-top: 100px; */
 }
 
