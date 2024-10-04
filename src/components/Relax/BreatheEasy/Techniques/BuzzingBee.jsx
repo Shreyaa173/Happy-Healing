@@ -1,5 +1,5 @@
 import React from 'react';
-import BreathingLayout from './BreathingLayout';
+import BreathingLayout from './BreathingLayout/BreathingLayout';
 
 const BuzzingBumblebee = () => {
   const name = "Buzzing Bumblebee Breathing";
