@@ -61,7 +61,7 @@ Your event deserves the best photography, and Pixel Palette is here to make it h
 
 
 
-## Screenshots
+## Snippets From Happy Healing
 
 <p align="center">
   <img src= "Graphics/Landing Page.png" alt="Logo"  />
@@ -98,4 +98,4 @@ Go to the project directory
 ```
 
 ##
-Thankyou for visiting my project. 
+Thankyou for visiting our project. 
