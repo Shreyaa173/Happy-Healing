@@ -16,8 +16,8 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 ## Why Choose Us?
 
 ## 1. Holistic Well-Being
-- **Comprehensive Resources** : From meditation to journaling, find everything you need to foster your mental health in one place.
-Expertly Curated Content: Each resource is selected to promote healing, mindfulness, and personal growth.
+- **Comprehensive Resources** : From giuded meditation to journaling, find everything you need to foster your mental health in one place.
+- **Curated Content**: Each resource is selected to promote healing, mindfulness, and personal growth.
 
 ## 2. Ease of Use
 - **Simple Navigation**: A user-friendly interface that makes finding and using resources easy and intuitive.
@@ -28,9 +28,8 @@ Expertly Curated Content: Each resource is selected to promote healing, mindfuln
 - **Journaling Prompts**: Guided journaling prompts for gratitude, mindfulness, and self-reflection.
 
 ## 4. Engaging Experience
-- **Daily Affirmations**: Start each day with positive energy.
-- **Sound Therapy**: Relax with calming music or nature sounds.
-
+- **Daily Affirmations**: Start all your days with positive energy.
+- **Sound Therapy**: De-stress through calming music and nature sounds.
 
 
 ♡ Make Happy Healing your helping hand through the highs and lows ♡
@@ -38,19 +37,19 @@ Expertly Curated Content: Each resource is selected to promote healing, mindfuln
 ## Future Scope
 
 ## 1. Expanded Features
-- Community Forum: A safe space for users to share their healing journeys and support one another.
-- Mindfulness Challenges: Fun and engaging challenges to build mental wellness habits over time.
-- Personalized Recommendations: Offering tailored resources based on users’ preferences and emotional states.
+- **Community Forum**: A safe space for users to share their healing journeys and support one another.
+- **Mindfulness Challenges**: Fun and engaging challenges to build mental wellness habits over time.
+- **Personalized Recommendations**: Offering tailored resources based on users’ preferences and emotional states.
 
 ## 2. Mobile App
-- On-the-Go Access: A mobile app for users to easily access resources and check-ins from anywhere.
+- **On-the-Go Access**: A mobile app for users to easily access resources and check-ins from anywhere.
 
 ## 3. AI Integration
-- AI-Driven Journaling Prompts: Suggestions for journaling prompts based on mood and previous entries.
-- Mental Health Insights: Offering insights based on journal entries and check-ins to help users track their progress.
+- **AI-Driven Journaling Prompts**: Suggestions for journaling prompts based on mood and previous entries.
+- **Mental Health Insights**: Offering insights based on journal entries and check-ins to help users track their progress.
 
 ## 4. Global Reach
-- Multilingual Support: Expanding to include resources and services in multiple languages to cater to a global audience.
+- **Breaking the language Barrier**: Why should mental well- being be constrained by linguistic barriers? So we will be introducing, *multi- lingual support* to cater to a global audience.
 
 ## Let's Create Memories Together
 Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime. 
