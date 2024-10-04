@@ -2,9 +2,9 @@
     --card-width: 250px;
     --card-border_radius: 16px;
     --row_increment: 10px;
-    --card_small: 26;
-    --card_medium: 30;
-    --card_large: 34;
+    --card_small: 30;
+    --card_medium: 36;
+    --card_large: 40;
 }
 
 *{
