@@ -14,6 +14,9 @@ body {
   height: 100vh;
   background-color: white;
   position: relative;
+  /* background-image: url("./Images/about1.jpg");
+  background-size: cover;
+  background-repeat: repeat-y; */
 }
 
 .images {

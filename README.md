@@ -55,22 +55,30 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 ## Let's Create Memories Together
 Your event deserves the best photography, and Pixel Palette is here to make it happen. Explore our website, view our photographers' portfolios, and book the perfect team for your next event. Let us help you create beautiful memories that last a lifetime. 
 
-<!--
+
 
 ## Tech Stack
 
 
 
-## Screenshots
+## Snippets From Happy Healing
 
-![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage.png)
+<p align="center">
+  <img src= "Graphics/Landing Page.png" alt="Logo"  />
+</p>
+
+<p align="center">
+  <img src= "Graphics/FAQs.png" alt="Logo"  />
+</p>
+
+<!--
+![App Screenshot](Graphics/Landing Page.png](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Landing%20Page.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage-Navbar.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/2nd%20Page.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/BestShots.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Popup.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/Book%20now.png)
-
---! >
+-->
 
 ## Contributing
 
@@ -94,4 +102,4 @@ Go to the project directory
 ```
 
 ##
-Thankyou for visiting my project. 
+Thankyou for visiting our project. 

@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+  }
+
+.footer{
+    background-color: #a28dd3;
+    height: 50vh;
+    width: 100vw;
+    color: black;
+    font-weight: 400;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+
+.footer-top{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer .left{
+    width: 40%;
+}
+
+.footer .right{
+    width: 50%;
+}
+
+.footer .left .nav-icon{
+    display: flex;
+    float: left;
+    color: white;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+
+.footer .left .nav-icon .logo{
+    height: 60px;
+    margin-left: 20px;
+}
+
+.footer .left .nav-icon p{
+    margin-top: 8%;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.about-text {
+    clear: both;
+    margin-top: 20px;
+    margin-left: 30px;
+    line-height: 1.75rem;
+}
+ 
+.foot {
+    text-align: center;
+    padding: 20px;
+    background-color: #a28dd3;
+    border-top: 1.5px solid rgba(0,0,0,0.4);
+    font-size: 14px;
+    color: #333;
+    width: 100%;   
+}
+
+.resources1{
+    margin-top: 50px;
+    display: flex;
+}
+
+.resources1 .first{
+    flex-basis: 30%;
+}
+
+.resources1 .second{
+    flex-basis: 30%;
+}
+
+.resources1 h3{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.resources1 li{
+    list-style: none;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.resources1 li a{
+    text-decoration: none;
+    color: black;
+}
+
+.resources1 li a:hover{
+    text-decoration: underline;
+    color: black;
+    font-weight: 600;
+}
