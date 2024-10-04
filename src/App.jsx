@@ -1,7 +1,7 @@
 // src/App.js
 
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 // Importing Components
 import Home from "./components/Home/Home";
@@ -27,7 +27,6 @@ function App() {
   return (
     <>
      <Navbar />
-     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/healing" element={<Grid />} />
@@ -44,7 +43,6 @@ function App() {
         <Route path="/faq" element={<Faq />} />
         <Route path="/login" element={<Login />} />
       </Routes>
-    </Router>
     </>
   );
 }
