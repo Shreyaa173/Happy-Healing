@@ -1,0 +1,52 @@
+.articles-page {
+    padding: 20px;
+    margin-top: 70px; 
+    background-image: url('./Resources.jpg');
+    background-size: cover;
+    justify-items: center;
+  }
+
+.articles-page h1 {
+    padding-top: 0;
+    text-align: center;
+    padding-bottom: 20px;
+}
+  
+  .articles-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .article-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 22vw;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+    text-decoration: none;
+  }
+  
+  .article-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .read-more {
+    color: #007BFF; /* Bootstrap link color */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .read-more:hover {
+    text-decoration: underline;
+  }  
+
+  .article-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+    object-fit: cover;
+  }
