@@ -13,7 +13,7 @@
 }
 
 .pin_container{
-    background-image: url('./assets/Resources.jpg');
+    background-image: url('./assets/Grid.png');
     background-repeat: repeat-y;
     background-size: contain;
     /* background: linear-gradient(90deg, #f5efff, #c28ef4); */

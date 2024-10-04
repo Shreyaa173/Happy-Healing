@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./LogoWOBG.png";
 import "./Footer.css";
+
 function Footer() {
   return (
     <div>
@@ -64,6 +65,22 @@ function Footer() {
                     <a href="terms-of-service.html">Discord</a>
                   </li>
                 </ul>
+              </div>
+              <div className="third">
+                <h3>Subscribe to our NewsLetter</h3>
+                <h4 className="subscribe-text">
+                  Stay in the loop and subscribe to Code book's Newsletter
+                </h4>
+                <div className="search">
+                  <input
+                    type="text"
+                    placeholder="Enter your email"
+                    spellcheck="false"
+                  />
+                  <button>
+                  <box-icon name='right-arrow-alt'></box-icon>
+                  </button>
+                </div>
               </div>
             </div>
           </div>
