@@ -49,7 +49,7 @@ const Videos = () => {
       <div className="videos-list">
         {videos.map((video, index) => (
           <Link to={video.link} key={index} className="video-card" target="_blank" rel="noopener noreferrer">
-            <h2>{video.title}</h2>
+            <h3>{video.title}</h3>
             <img src={video.image} alt="Video Thumbnail" />
             <p>{video.summary}</p>
           </Link>

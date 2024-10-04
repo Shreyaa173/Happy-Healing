@@ -55,7 +55,7 @@ const Articles = () => {
       <div className="articles-list">
         {articles.map((article, index) => (
           <Link to={article.link} key={index} className="article-card" target="_blank" rel="noopener noreferrer">
-            <h2>{article.title}</h2>
+            <h3>{article.title}</h3>
             <img src={article.image} alt="Article Thumbnail" />
             <p>{article.summary}</p>
           </Link>
