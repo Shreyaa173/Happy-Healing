@@ -63,7 +63,7 @@ Your event deserves the best photography, and Pixel Palette is here to make it h
 
 ## Screenshots
 
-![App Screenshot](Graphics/Landing Page.png)
+![App Screenshot](Graphics/Landing Page.png](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Landing%20Page.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/HomePage-Navbar.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/2nd%20Page.png)
 ![App Screenshot](https://github.com/Shreyaa173/Pixel-Pallete/blob/main/Assests/BestShots.png)
