@@ -18,6 +18,9 @@ import SlumberSound from "./components/Relax/BreatheEasy/Techniques/SlumberSound
 
 
 import Resources from "./components/Resources/Resources";
+import Articles from "./components/Resources/Article";
+import Videos from "./components/Resources/Videos";
+
 import Faq from "./components/Faq/Faq";
 import Navbar from "./components/Home/Navbar/Navbar";
 import Login from "./components/Login/Login";
@@ -40,6 +43,8 @@ function App() {
             <Route path="/mindfulness/breathe-easy/nostril-navigator" element={<NostrilNavigator />} /> 
             <Route path="/mindfulness/breathe-easy/slumber-sound" element={<SlumberSound />} /> 
         <Route path="/resources" element={<Resources />} />
+          <Route path="/resources/articles" element={<Articles />} />
+          <Route path="/resources/videos" element={<Videos />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/login" element={<Login />} />
       </Routes>
