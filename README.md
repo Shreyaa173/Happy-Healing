@@ -16,7 +16,7 @@ Are you looking to improve your mental well-being with easy-to-follow resources 
 
 ♡ Make Happy Healing your helping hand through the highs and lows ♡
 
-<!-- ## Future Scope
+## Future Scope
 
 ### 1. Expanded Services
 - **Videography:** Introducing professional videography services to complement our photography offerings.
@@ -83,4 +83,4 @@ Go to the project directory
 ```
 
 ##
-Thankyou for visiting my project. -->
+Thankyou for visiting my project. 
