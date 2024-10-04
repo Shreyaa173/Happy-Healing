@@ -3,7 +3,7 @@
 }
 
 .footer {
-  background-color: #a28dd3;
+  background-color: #d4c2ff;
   height: 50vh;
   width: 100vw;
   color: black;
@@ -54,7 +54,7 @@
 .foot {
   text-align: center;
   padding: 20px;
-  background-color: #a28dd3;
+  background-color: #d4c2ff;
   border-top: 1.5px solid rgba(0, 0, 0, 0.4);
   font-size: 14px;
   color: #333;
@@ -90,44 +90,44 @@
 }
 
 .search input {
-    border-radius: 30px;
-    border: 1px solid #ccc;
-    height: 4.5rem;
-    width: 20rem;
-    padding-left: 20px;
-    font-size: 1.25rem;
-    color: #333;
-    background-color: #f9f9f9;
-    transition: box-shadow 0.3s ease;
-  }
-  
-  .search input:focus {
-    outline: none;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+  border-radius: 30px;
+  border: 1px solid #ccc;
+  height: 4.5rem;
+  width: 20rem;
+  padding-left: 20px;
+  font-size: 1.25rem;
+  color: #333;
+  background-color: #f9f9f9;
+  transition: box-shadow 0.3s ease;
+}
 
-  .search input::placeholder{
-    color: black;
-    font-size: 1.1rem;
-  }
-  
-  .search button {
-    border: none;
-    background-color: transparent;
-    cursor: pointer;
-    position: absolute;
-    right: 10px;
-  }
-  
-  .search .arrow {
-    font-size: 1.5rem;
-    cursor: pointer;
-    color: #555;
-  }
-  
-  .search button:hover i {
-    color: #6a518a;
-  }
+.search input:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.search input::placeholder {
+  color: black;
+  font-size: 1.1rem;
+}
+
+.search button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+}
+
+.search .arrow {
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #555;
+}
+
+.search button:hover i {
+  color: #6a518a;
+}
 
 .third input {
   border: 1px solid black;

@@ -16,10 +16,8 @@
     background-image: url('./assets/Grid.png');
     background-repeat: repeat-y;
     background-size: contain;
-    /* background: linear-gradient(90deg, #f5efff, #c28ef4); */
+    height: 100%;
     width: 100%;
-    /* margin-top: 4.5%; */
-    height: auto;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
