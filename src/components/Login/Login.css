@@ -19,6 +19,7 @@
   overflow-y: hidden;
   margin-top: 58px;
   font-size: 18px;
+  min-height: calc(100vh - 70px);
 }
 
 .form-container {
