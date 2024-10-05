@@ -103,7 +103,7 @@ body {
 
   .leaf {
     position: fixed;
-    right: 3vw; 
+    right: 0; 
     bottom: 2vh; 
     height: auto;
     transform: scale(2.5);

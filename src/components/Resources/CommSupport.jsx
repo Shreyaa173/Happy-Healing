@@ -26,7 +26,7 @@ const CommunitySupport = () => {
             <div className="dropdown-content">
             <p>Engage with others through various mental health-focused communities on Reddit and Discord. Discuss your challenges, share tips, and get support from peers.</p>
 
-                <div classNamw="dropdown-section">
+                <div className="dropdown-section">
                     <div className="platform-section">
                     <h4>Reddit Communities</h4>
                     <ul>
@@ -47,25 +47,6 @@ const CommunitySupport = () => {
                 
           </div>
           
-          )}
-        </div>
-
-        {/* Professional Guidance Section */}
-        <div className="section">
-          <h3 onClick={() => setShowProfessionalGuidance(!showProfessionalGuidance)} className="dropdown-header">
-            Professional Guidance
-            {showProfessionalGuidance ? ' ▲' : ' ▼'}
-          </h3>
-          {showProfessionalGuidance && (
-            <div className="dropdown-content">
-              <p>Get tips, advice, and information from mental health professionals.</p>
-              <ul>
-                <li className='lists'><a href="#">Managing Stress and Anxiety</a></li>
-                <li className='lists'><a href="#">Self-Care for Mental Health</a></li>
-                <li className='lists'><a href="#">Mindfulness Practices</a></li>
-                <li className='lists'><a href="#">Finding the Right Therapist</a></li>
-              </ul>
-            </div>
           )}
         </div>
 
@@ -101,7 +82,7 @@ const CommunitySupport = () => {
             <div className="dropdown-content">
               <p>If you're in an urgent crisis, please reach out to one of the helplines below for immediate assistance.</p>
               <div className="helpline">
-                <p><strong>Indian Helplines:</strong></p>
+                <p><strong>Helplines:</strong></p>
                 <ul>
                   <li><strong>Kiran Helpline (Mental Health):</strong> 1800-599-0019</li>
                   <li><strong>Vandrevala Foundation (Emotional Distress):</strong> 9999-666-555</li>
