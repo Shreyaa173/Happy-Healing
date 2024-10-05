@@ -76,7 +76,11 @@ Your well-being deserves the best care, and Happy Healing is here to guide you. 
 
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20LOGIN.png)
 
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20MANTRAS.png)
+
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20MINDFULNESS.png)
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Breathe.png)
 
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20RESOURCES.png)
 
