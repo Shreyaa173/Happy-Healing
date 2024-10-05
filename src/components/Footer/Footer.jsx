@@ -68,9 +68,9 @@ function Footer() {
               </div>
               <div className="third">
                 <h3>Subscribe to our NewsLetter</h3>
-                <h4 className="subscribe-text">
+                <p className="subscribe-text">
                   Stay in the loop and subscribe to Code book's Newsletter
-                </h4>
+                </p>
                 <div className="search">
                   <input
                     type="text"
