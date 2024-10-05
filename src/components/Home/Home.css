@@ -20,6 +20,7 @@ body {
   /* background-image: url("./Images/about1.jpg");
   background-size: cover;
   background-repeat: repeat-y; */
+  min-height: calc(100vh - 70px);
 }
 
 .images {
