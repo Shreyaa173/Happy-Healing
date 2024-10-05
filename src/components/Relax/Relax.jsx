@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import "./Relax.css";
-import BreathingLady from './Images/BreathingLady.jpeg';
-import ZenImage from './Images/ZenImage.jpg'
+import BreathingLady from './Images/BreathingLady.png';
+import ZenImage from './Images/ZenImage.png'
 
 const Relax = () => {
   return (

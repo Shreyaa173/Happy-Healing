@@ -16,7 +16,7 @@
   text-align: center;
   height: max-content;
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
   margin-top: 1.2%;
   font-family: "DM Serif Display", serif;
   min-height: calc(100vh - 70px);
@@ -31,7 +31,7 @@
 h1 {
   font-family: "DM Serif Display", serif;
   font-size: 6.5rem;
-  margin-top: 50px;
+  margin-top: px;
   color: #7e60bf;
   /* padding-top: 100px; */
 }
