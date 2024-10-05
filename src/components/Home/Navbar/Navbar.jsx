@@ -1,33 +1,41 @@
-// src/components/Home/Navbar/Navbar.jsx
-
-import React from 'react';
+import React, { useState } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import './Navbar.css';
 
 const Navbar = () => {
+  const [menuOpen, setMenuOpen] = useState(false); // State to manage menu visibility
   const navigate = useNavigate();
-  const location = useLocation(); // Ensure this is defined before using it
+  const location = useLocation();
 
-  const pathsWithoutBackButton = ['/', '/healing', '/mindfulness', '/resources', '/faq']; // Add any paths where the back button should not show
-
-  // Check if the current path is not one of the defined paths
+  const pathsWithoutBackButton = ['/', '/healing', '/mindfulness', '/resources', '/faq'];
   const showBackButton = !pathsWithoutBackButton.includes(location.pathname);
 
   const handleBack = () => {
     navigate(-1); // Go back to the previous page
   };
 
+  const toggleMenu = () => {
+    setMenuOpen(!menuOpen); // Toggle the menu
+  };
+
   return (
     <div className="nav">
       {showBackButton && (
         <div className="back-arrow" onClick={handleBack}>
-          ← {/* Unicode Left Arrow */}
+          ←
         </div>
       )}
       <div className="logo">
         <p>An Athena's Aces Project</p>
       </div>
-      <div className="navItems">
+
+      {/* Hamburger Icon */}
+      <div className="hamburger" onClick={toggleMenu}>
+        &#9776; {/* Hamburger symbol */}
+      </div>
+
+      {/* Navigation Items */}
+      <div className={`navItems ${menuOpen ? 'show' : ''}`}>
         <ul>
           <li className='list'>
             <a href="/">Home</a>
@@ -46,6 +54,7 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
+
       <div className="button">
         <button className="btn"><a href="/login">Login</a></button>
       </div>
