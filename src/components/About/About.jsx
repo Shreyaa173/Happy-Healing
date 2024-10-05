@@ -26,7 +26,7 @@ const Home = () => {
           <div className={styles.cardMain}>
             <HoverCard
               name="Our Objective"
-              details="We aim to provide accessible resources and promote mindfulness practices that enhance emotional well-being. By fostering a supportive community and raising awareness about mental health, we engage users through our cute turtle mascot, regularly update content, and encourage feedback to create a relatable and tailored experience for everyone."
+              details="1 in 5 people suffer from mental illnesses every year!! This drives us to provide accessible resources that enhance emotional well-being. By fostering a supportive community and raising awareness about mental health, we engage users through our cute turtle mascot, regularly update content, and encourage feedback to create a relatable and tailored experience for everyone."
             />
           </div>
         </div>
