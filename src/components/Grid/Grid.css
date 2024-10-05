@@ -26,6 +26,7 @@
     grid-auto-rows: var(--row_increment);
     justify-content: center;
     min-height: calc(100vh - 70px);
+    background-attachment: fixed;
 }
 
 .card{

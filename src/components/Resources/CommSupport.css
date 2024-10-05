@@ -11,6 +11,7 @@ body {
     text-align: center;
     padding: 1em 0;
     margin-bottom: 30px;
+    background-attachment: fixed;
 }
 
 .header h2 {

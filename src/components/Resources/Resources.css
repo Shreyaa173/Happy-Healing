@@ -11,6 +11,7 @@
     min-height: calc(100vh - 70px);
     gap: 2vh;
     align-items: center;
+    background-attachment: fixed;
   }
   
   .resource-container {

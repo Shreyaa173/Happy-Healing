@@ -21,6 +21,7 @@ body {
   background-size: cover;
   background-repeat: repeat-y; */
   min-height: calc(100vh - 70px);
+  background-attachment: fixed;
 }
 
 .images {
