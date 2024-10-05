@@ -11,6 +11,7 @@ body {
     text-align: center;
     padding: 1em 0;
     margin-bottom: 30px;
+    background-attachment: fixed;
 }
 
 .header h2 {
@@ -56,14 +57,43 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
-ul {
+.platform-section {
+    width: 30vw; 
+    margin-bottom: 20px;
+    display: block;
+  }
+  
+  .platform-section h4 {
+    color: #7e60bf;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+.platform-section  ul .lists{
+    /* background: #f9f9f9; */
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); */
+  }
+  
+ .platform-section ul li a {
+    color: #333;
+  }
+  
+.platform-section  ul li a:hover {
+    color: #7e60bf;
+  }
+
+.platform-section ul {
     list-style-type: none;
     padding: 0;
 }
   
-ul .lists {
+.platform-section ul .lists {
     /* background: #f9f9f9; */
     padding: 10px;
     margin: 5px 0;
@@ -75,12 +105,12 @@ ul .lists {
     padding-bottom: 10px;
 }
 
-a {
+.lists a {
     text-decoration: none;
     color: #333;
 }
   
-a:hover {
+.lists a:hover {
     color: #7e60bf;
 }
   
@@ -103,31 +133,4 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #7e60bf;
 }
-
-.platform-section {
-    width: 48%; 
-    margin-bottom: 20px;
-  }
-  
-  .platform-section h4 {
-    color: #7e60bf;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  ul .lists{
-    /* background: #f9f9f9; */
-    padding: 10px;
-    margin: 5px 0;
-    border-radius: 5px;
-    /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); */
-  }
-  
-  ul li a {
-    color: #333;
-  }
-  
-  ul li a:hover {
-    color: #7e60bf;
-  }
   

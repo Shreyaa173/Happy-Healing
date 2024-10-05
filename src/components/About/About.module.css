@@ -19,6 +19,8 @@
   height: 100vh;
   margin-top: 1.2%;
   font-family: "DM Serif Display", serif;
+  min-height: calc(100vh - 70px);
+  background-attachment: fixed;
 }
 
 .homePage img {

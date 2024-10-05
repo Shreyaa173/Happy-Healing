@@ -76,10 +76,12 @@ Your well-being deserves the best care, and Happy Healing is here to guide you. 
 
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Mindfulness%201.png)
 
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Mantras.png)
+
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FAQs.png)
 
 <!--
-![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
