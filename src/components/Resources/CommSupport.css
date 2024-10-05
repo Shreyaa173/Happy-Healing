@@ -56,11 +56,13 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .platform-section {
-    width: 48%; 
+    width: 30vw; 
     margin-bottom: 20px;
+    display: block;
   }
   
   .platform-section h4 {

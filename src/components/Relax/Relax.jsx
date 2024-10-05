@@ -16,7 +16,7 @@ const Relax = () => {
         </div>
       </Link>
       
-      <Link to="/mindfulness/zen-meditate" className="containers">
+      <Link to="/mindfulness/zen-master" className="containers">
         <img src={Image} alt="ZenMaster" className="containers-image" />
         <div className="content">
           <h2>ZenMaster</h2>

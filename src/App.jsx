@@ -16,6 +16,8 @@ import NostrilNavigator from "./components/Relax/BreatheEasy/Techniques/NostrilN
 import PursedPeace from "./components/Relax/BreatheEasy/Techniques/PursedPeace";
 import SlumberSound from "./components/Relax/BreatheEasy/Techniques/SlumberSound";
 
+import ZenMaster from "./components/Relax/BreatheEasy/ZenMaster/Zenmaster";
+
 
 import Resources from "./components/Resources/Resources";
 import Articles from "./components/Resources/Article";
@@ -43,6 +45,7 @@ function App() {
             <Route path="/mindfulness/breathe-easy/pursed-peace" element={<PursedPeace />} /> 
             <Route path="/mindfulness/breathe-easy/nostril-navigator" element={<NostrilNavigator />} /> 
             <Route path="/mindfulness/breathe-easy/slumber-sound" element={<SlumberSound />} /> 
+          <Route path="/mindfulness/zen-master" element={<ZenMaster />} />
         <Route path="/resources" element={<Resources />} />
           <Route path="/resources/articles" element={<Articles />} />
           <Route path="/resources/videos" element={<Videos />} />
