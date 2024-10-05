@@ -4,6 +4,8 @@
     background-image: url('./Resources.jpg');
     background-size: cover;
     justify-items: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 70px);
   }
 
 .articles-page h1 {

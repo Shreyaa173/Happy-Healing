@@ -13,7 +13,8 @@ body{
     background-image: url("./Images/faq.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    min-height: calc(100vh - 70px);    
+    min-height: calc(100vh - 70px);   
+    background-attachment: fixed; 
 }
 .title{
     font-size: 6rem;
