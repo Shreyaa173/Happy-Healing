@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./LogoWOBG.png";
 import "./Footer.css";
+
 function Footer() {
   return (
     <div>
@@ -13,12 +14,12 @@ function Footer() {
             </div>
             <div className="about-text">
               <p>
-                Welcome to Code Book—your go-to resource hub for mastering
-                coding. Whether you're a beginner or an experienced developer,
-                we provide curated tutorials, coding challenges, and guides to
-                enhance your skills across various programming languages and
-                frameworks. Our mission is to create a community where learning
-                to code is accessible, engaging, and fun for everyone.
+                Happy Healing, a website dedicated to nurturing mental
+                well-being through a holistic approach. It offers a wide range
+                of resources, from meditation techniques, sound therapy, AI bot
+                consultation to daily affirmations. All presented with the help
+                of a cute turtle partner who will accompany you on your healing
+                journey.
               </p>
             </div>
           </div>
@@ -29,19 +30,19 @@ function Footer() {
                 <h3>Quick Links</h3>
                 <ul>
                   <li>
-                    <a href="home.html">Home</a>
+                    <a href="/">Home</a>
                   </li>
                   <li>
-                    <a href="about-us.html">About Us</a>
+                    <a href="/healing">Healing</a>
                   </li>
                   <li>
-                    <a href="faq.html">FAQ / Help</a>
+                    <a href="/faq">FAQ / Help</a>
                   </li>
                   <li>
-                    <a href="privacy-policy.html">Privacy Policy</a>
+                    <a href="/resources">Resources</a>
                   </li>
                   <li>
-                    <a href="terms-of-service.html">Terms of Service</a>
+                    <a href="/mindfulness">Mindfulness</a>
                   </li>
                 </ul>
               </div>
@@ -49,21 +50,37 @@ function Footer() {
                 <h3>Connect with us</h3>
                 <ul>
                   <li>
-                    <a href="home.html">Instagram</a>
+                    <a href="/">Instagram</a>
                   </li>
                   <li>
-                    <a href="about-us.html">Github</a>
+                    <a href="/">Facebook</a>
                   </li>
                   <li>
-                    <a href="faq.html">Twitter</a>
+                    <a href="/">Twitter</a>
                   </li>
                   <li>
-                    <a href="privacy-policy.html">Linkedin</a>
+                    <a href="/">Linkedin</a>
                   </li>
                   <li>
-                    <a href="terms-of-service.html">Discord</a>
+                    <a href="/">Youtube</a>
                   </li>
                 </ul>
+              </div>
+              <div className="third">
+                <h3>Subscribe to our NewsLetter</h3>
+                <h4 className="subscribe-text">
+                  Stay in the loop and subscribe to Code book's Newsletter
+                </h4>
+                <div className="search">
+                  <input
+                    type="text"
+                    placeholder="Enter your email"
+                    spellcheck="false"
+                  />
+                  <button>
+                    <box-icon name="right-arrow-alt"></box-icon>
+                  </button>
+                </div>
               </div>
             </div>
           </div>

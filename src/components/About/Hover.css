@@ -29,8 +29,9 @@
     padding: 1rem;
     justify-content: space-around;
     border-radius: 10px;
-    font-size: 1.4rem;
+    font-size: 3rem;
     background-color: #755bb0;
+    color: white;
   }
   
   .back-card {
@@ -45,11 +46,18 @@
     transform: rotateY(180deg);
     padding: 1rem;
     border-radius: 10px;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
   }
   
   .achievementleft span {
-    color: rgb(255, 255, 255);
+    color: black;
+    align-self: center;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
+
+  .achievementleft .name {
+    color: white;
     align-self: center;
     overflow-wrap: break-word;
     white-space: normal;

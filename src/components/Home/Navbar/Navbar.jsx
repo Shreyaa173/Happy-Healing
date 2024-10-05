@@ -29,19 +29,19 @@ const Navbar = () => {
       </div>
       <div className="navItems">
         <ul>
-          <li>
+          <li className='list'>
             <a href="/">Home</a>
           </li>
-          <li>
+          <li className='list'>
             <a href="/healing">Healings</a>
           </li>
-          <li>
+          <li className='list'>
             <a href="/mindfulness">Mindfulness</a>
           </li>
-          <li>
+          <li className='list'>
             <a href="/resources">Resources</a>
           </li>
-          <li>
+          <li className='list'>
             <a href="/faq">FAQ</a>
           </li>
         </ul>

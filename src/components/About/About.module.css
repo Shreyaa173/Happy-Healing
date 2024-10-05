@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Nimbus+Sans:wght@400;700&display=swap');
 
+.dm-serif-display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .homePage {
   width: 100vw;
   overflow-x: hidden;
@@ -12,7 +18,7 @@
   width: 100vw;
   height: 100vh;
   margin-top: 1.2%;
-  font-family: 'Nimbus Sans', sans-serif;
+  font-family: "DM Serif Display", serif;
 }
 
 .homePage img {
@@ -21,6 +27,7 @@
 }
 
 h1 {
+  font-family: "DM Serif Display", serif;
   font-size: 6.5rem;
   margin-top: 50px;
   color: #7e60bf;

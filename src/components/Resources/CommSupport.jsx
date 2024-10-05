@@ -30,17 +30,17 @@ const CommunitySupport = () => {
                     <div className="platform-section">
                     <h4>Reddit Communities</h4>
                     <ul>
-                        <li><a href="https://www.reddit.com/r/mentalhealth/" target="_blank" rel="noopener noreferrer">Reddit - Mental Health</a></li>
-                        <li><a href="https://www.reddit.com/r/depression/" target="_blank" rel="noopener noreferrer">Reddit - Depression Support</a></li>
-                        <li><a href="https://www.reddit.com/r/anxiety/" target="_blank" rel="noopener noreferrer">Reddit - Anxiety Support</a></li>
+                        <li className='lists'><a href="https://www.reddit.com/r/mentalhealth/" target="_blank" rel="noopener noreferrer">Reddit - Mental Health</a></li>
+                        <li className='lists'><a href="https://www.reddit.com/r/depression/" target="_blank" rel="noopener noreferrer">Reddit - Depression Support</a></li>
+                        <li className='lists'><a href="https://www.reddit.com/r/anxiety/" target="_blank" rel="noopener noreferrer">Reddit - Anxiety Support</a></li>
                     </ul>
                     </div>
                 
                     <div className="platform-section">
                     <h4>Discord Communities</h4>
                     <ul>
-                        <li><a href="https://discord.gg/mentalhealth" target="_blank" rel="noopener noreferrer">Discord - Mental Health Community</a></li>
-                        <li><a href="https://discord.gg/anxiety" target="_blank" rel="noopener noreferrer">Discord - Anxiety Support</a></li>
+                        <li className='lists'><a href="https://discord.gg/mentalhealth" target="_blank" rel="noopener noreferrer">Discord - Mental Health Community</a></li>
+                        <li className='lists'><a href="https://discord.gg/anxiety" target="_blank" rel="noopener noreferrer">Discord - Anxiety Support</a></li>
                     </ul>
                     </div>
                 </div>
@@ -60,10 +60,10 @@ const CommunitySupport = () => {
             <div className="dropdown-content">
               <p>Get tips, advice, and information from mental health professionals.</p>
               <ul>
-                <li><a href="#">Managing Stress and Anxiety</a></li>
-                <li><a href="#">Self-Care for Mental Health</a></li>
-                <li><a href="#">Mindfulness Practices</a></li>
-                <li><a href="#">Finding the Right Therapist</a></li>
+                <li className='lists'><a href="#">Managing Stress and Anxiety</a></li>
+                <li className='lists'><a href="#">Self-Care for Mental Health</a></li>
+                <li className='lists'><a href="#">Mindfulness Practices</a></li>
+                <li className='lists'><a href="#">Finding the Right Therapist</a></li>
               </ul>
             </div>
           )}

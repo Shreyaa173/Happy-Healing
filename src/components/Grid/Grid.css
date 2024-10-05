@@ -2,9 +2,9 @@
     --card-width: 250px;
     --card-border_radius: 16px;
     --row_increment: 10px;
-    --card_small: 26;
-    --card_medium: 30;
-    --card_large: 34;
+    --card_small: 30;
+    --card_medium: 36;
+    --card_large: 40;
 }
 
 *{
@@ -13,13 +13,11 @@
 }
 
 .pin_container{
-    /* background-image: url('./assets/Mindfulness.jpg');
+    background-image: url('./assets/Grid.png');
     background-repeat: repeat-y;
-    background-size: contain; */
-    background: linear-gradient(60deg, #f5efff, #e4c7ff);
+    background-size: cover;
+    height: 100%;
     width: 100%;
-    margin-top: 4.5%;
-    height: auto;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
