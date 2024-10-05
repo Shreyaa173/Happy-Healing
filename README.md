@@ -6,7 +6,7 @@
 - Let's simplify and unstigmatize mental well- being together. 
 
 <p align="center">
-  <img src= "Graphics/TurtleMascot w Shadows.png" alt="Logo" width="500" />
+  <img src= "Graphics/TurtleMascot w Shadows.png" alt="Logo" width="321" />
 </p>
 
 ## Welcome to Happy Healing
