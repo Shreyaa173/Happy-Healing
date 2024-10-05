@@ -75,10 +75,10 @@ function Footer() {
                   <input
                     type="text"
                     placeholder="Enter your email"
-                    spellCheck="false"
+                    spellcheck="false"
                   />
                   <button>
-                    <box-icon name="right-arrow-alt"></box-icon>
+                    <i className="bx bx-right-arrow-alt"></i>
                   </button>
                 </div>
               </div>
