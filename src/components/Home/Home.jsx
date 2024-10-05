@@ -10,7 +10,7 @@ import Facilities from "../Facilities/Facilities";
 const Home = () => {
     const handleScroll = () => {
       window.scrollTo({
-        top: 700,
+        top: 650,
         behavior: 'smooth',
       });
     };
