@@ -26,7 +26,7 @@ const Home = () => {
           <div className={styles.cardMain}>
             <HoverCard
               name="Our Objective"
-              details="1 in 5 people suffer from mental illnesses every year!! This drives us to provide accessible resources enhancing emotional well-being. We foster a supportive community and raising awareness about mental health, regularly update content, and encourage feedback to create a relatable and tailored experience for everyone."
+              details="1 in 5 people suffer from mental illnesses every year!! And the stigma around it making the stats even worse. This drives us to provide accessible resources enhancing emotional well-being for all within a supportive community. Let's unstigmatize mental health together."
             />
           </div>
         </div>
