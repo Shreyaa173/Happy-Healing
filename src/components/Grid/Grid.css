@@ -13,10 +13,7 @@
 }
 
 .pin_container{
-    background-image: url('./assets/Grid.png');
-    background-repeat: repeat-y;
-    background-size: cover;
-    height: 100%;
+    height: auto;
     width: 100%;
     position: absolute;
     left: 50%;
@@ -26,13 +23,13 @@
     grid-auto-rows: var(--row_increment);
     justify-content: center;
     min-height: calc(100vh - 70px);
-    background-attachment: fixed;
+    background: linear-gradient(60deg, #e9a7a7, #ffe5e5);
 }
+
 
 .card{
     margin: 15px 10px;
     border-radius: var(--card-border_radius);
-    background-color: cadetblue;
 }
 
 .card img {
