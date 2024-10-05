@@ -12,9 +12,10 @@ body {
 .faq {
     background-image: url("./Images/faq.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover; 
     min-height: calc(100vh - 70px);   
     background-attachment: fixed; 
+    background-position: center; 
 }
 
 .title {
