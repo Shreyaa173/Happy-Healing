@@ -6,7 +6,7 @@
 - Let's simplify and unstigmatize mental well- being together. 
 
 <p align="center">
-  <img src= "Graphics/TurtleMascot w Shadows.png" alt="Logo" width="500" />
+  <img src= "Graphics/TurtleMascot w Shadows.png" alt="Logo" width="321" />
 </p>
 
 ## Welcome to Happy Healing
@@ -74,15 +74,21 @@ Your well-being deserves the best care, and Happy Healing is here to guide you. 
 
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
 
-![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Mindfulness%201.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20LOGIN.png)
 
-![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Mantras.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20MANTRAS.png)
 
-![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FAQs.png)
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20MINDFULNESS.png)
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/Breathe.png)
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20RESOURCES.png)
+
+![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/FINAL%20FAQ.png)
 
 <!--
 
-![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
+
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
 ![App Screenshot](https://github.com/Shreyaa173/Happy-Healing/blob/master/Graphics/LandingPage.png)
 -->
