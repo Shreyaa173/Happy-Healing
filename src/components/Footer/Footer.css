@@ -49,6 +49,7 @@
   margin-top: 20px;
   margin-left: 30px;
   line-height: 1.75rem;
+  overflow-wrap: break-word;
 }
 
 .foot {
@@ -83,6 +84,7 @@
   font-weight: 300;
   margin-bottom: 30px;
   line-height: 1.75rem;
+  overflow-wrap: break-word;
 }
 
 .third .search {

@@ -44,6 +44,7 @@
     
   .content {
     padding: 20px 0 0;
+    overflow-wrap: break-word;
   }
   
   h2{
@@ -78,6 +79,7 @@
       color: white;
       font-size: 16px;
       line-height: 1.5rem;
+      overflow-wrap: break-word;
     }
   }
   
@@ -95,6 +97,7 @@
       color: white;
       font-size: 14px;
       line-height: 1.25rem;
+      overflow-wrap: break-word;
 
     }
 
@@ -103,6 +106,7 @@
       font-size: 20px;
       margin-bottom: 15px;
       font-family: "DM Serif Display", serif;
+      overflow-wrap: break-word;
     }
   }
   
@@ -115,6 +119,7 @@
       color: white;
       font-size: 14px;
       line-height: 1.4rem;
+      overflow-wrap: break-word;
 
     }
 
@@ -123,6 +128,7 @@
       font-size: 25px;
       margin-bottom: 15px;
       font-family: "DM Serif Display", serif;
+      overflow-wrap: break-word;
     }
   }
   
