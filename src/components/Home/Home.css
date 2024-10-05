@@ -17,9 +17,6 @@ body {
   height: 90vh;
   background-color: white;
   position: relative;
-  /* background-image: url("./Images/about1.jpg");
-  background-size: cover;
-  background-repeat: repeat-y; */
   min-height: calc(100vh - 70px);
   background-attachment: fixed;
 }
@@ -81,7 +78,102 @@ body {
   transform: scale(1.25);
 }
 
-@media (max-width: 600px) {
+/* Media Queries */
+
+/* For tablets and smaller devices */
+@media (max-width: 1024px) {
+  .home {
+    height: auto;
+    padding-bottom: 20px;
+  }
+  
+  .home-image img {
+    width: 40vw;
+    margin-left: 0;
+  }
+
+  .images .home-text img {
+    width: 50vw;
+    margin-top: 2vw;
+  }
+
+  .home-button button {
+    width: 12vw;
+    font-size: 1.5vw;
+  }
+
+  .leaf {
+    width: 20vw;
+  }
+}
+
+/* For smartphones */
+@media (max-width: 768px) {
+  .home {
+    height: auto;
+    padding-bottom: 30px;
+  }
+  
+  /* Stack the image and text vertically */
+  .images {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .home-image img {
+    width: 60vw;
+    margin-left: 0;
+  }
+
+  .images .home-text img {
+    width: 70vw;
+    margin-top: 1vw;
+  }
+
+  .home-button button {
+    width: 20vw;
+    font-size: 3vw;
+  }
+
+  .leaf {
+    width: 30vw;
+  }
+}
+
+/* For very small devices */
+@media (max-width: 480px) {
+  .home {
+    height: auto;
+  }
+  
+  /* Ensure stacking of image and text vertically */
+  .images {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .home-image img {
+    width: 80vw;
+    margin-left: 0;
+  }
+
+  .images .home-text img {
+    width: 90vw;
+    margin-top: 0;
+  }
+
+  .home-button button {
+    width: 35vw;
+    font-size: 4vw;
+  }
+
+  .leaf {
+    width: 40vw;
+  }
+}
+
+
+/* @media (max-width: 600px) {
   .images{
     margin-left: 5%;
   }
@@ -109,4 +201,4 @@ body {
     height: auto;
     transform: scale(2.5);
   }
-}
+} */
