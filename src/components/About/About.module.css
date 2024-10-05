@@ -61,7 +61,7 @@ h1 {
       grid-template-columns: repeat(2, 1fr);
   }
   .cardMain {
-      width: 40vw; 
+      width: 30vw; 
   }
 }
 
