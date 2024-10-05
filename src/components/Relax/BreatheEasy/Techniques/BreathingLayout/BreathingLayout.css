@@ -6,14 +6,34 @@
   height: calc(100vh - 70px); 
   margin-top: 70px;
   padding: 20px;
-  background-image: url('../../Images/Resources.jpg');
+  background-image: url('../../../Images/Mindfulness.jpg');
   background-size: cover;
+  background-attachment: fixed;
   text-align: center;
+}
+
+.breathing-content {
+  background-color: white;
+  color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  width: 90vw;
+  min-width: 250px;
+  margin-top: 10px;
+  text-align: center;
+  align-items: center;
+  transition: transform 0.3s ease-in-out;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .technique-heading {
   font-size: 2rem;
   margin-bottom: 10px;
+  margin-top: 0;
   padding-top: 0;
   color: #7e60bf;
 }
@@ -32,8 +52,8 @@
 
 .animation-box {
   position: relative;
-  width: 560px;
-  height: 315px;
+  width: 355px;
+  height: 200px;
   border-radius: 10px;
   display: grid;
   align-items: center;
