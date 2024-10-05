@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import "./Resources.css";
-import Logo from './Images/Logo.jpg';
 
 import Article from './Images/Article.jpg';
 import Video from './Images/Video.png';
