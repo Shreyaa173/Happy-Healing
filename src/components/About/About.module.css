@@ -15,8 +15,6 @@
   color: #6f4eb6;
   text-align: center;
   height: max-content;
-  width: 100vw;
-  height: 80vh;
   margin-top: 1.2%;
   font-family: "DM Serif Display", serif;
   min-height: calc(100vh - 70px);
@@ -31,9 +29,8 @@
 h1 {
   font-family: "DM Serif Display", serif;
   font-size: 6.5rem;
-  margin-top: px;
+  margin-top: 0;
   color: #7e60bf;
-  /* padding-top: 100px; */
 }
 
 .cards {
@@ -56,7 +53,71 @@ h1 {
   align-content: center;
 }
 
-@media only screen and (max-width: 1200px) and (min-width: 500px) {
+/* Media Queries */
+
+/* For tablets and smaller devices */
+@media (max-width: 1024px) {
+  .homePage {
+    font-size: x-large;
+    height: auto;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    padding: 2vw;
+  }
+
+  .cardMain {
+    width: 30vw;
+    height: auto;
+  }
+}
+
+/* For smartphones */
+@media (max-width: 768px) {
+  .homePage {
+    font-size: large;
+  }
+
+  h1 {
+    font-size: 4rem;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 1.5vw;
+  }
+
+  .cardMain {
+    width: 70vw;
+    height: auto;
+  }
+}
+
+/* For very small devices */
+@media (max-width: 480px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  .cards {
+    gap: 10px;
+    padding: 1vw;
+  }
+
+  .cardMain {
+    width: 90vw;
+  }
+}
+
+
+/* @media only screen and (max-width: 1200px) and (min-width: 500px) {
   .cards {
       grid-template-columns: repeat(2, 1fr);
   }
@@ -72,4 +133,4 @@ h1 {
   .cardMain {
       width: 80vw; 
   }
-}
+} */
