@@ -44,6 +44,7 @@
     
   .content {
     padding: 20px 0 0;
+    overflow-wrap: break-word;
   }
   
   h2{
@@ -73,9 +74,16 @@
     .container {
       width: 90%;
     }
+
+    p{
+      color: white;
+      font-size: 16px;
+      line-height: 1.5rem;
+      overflow-wrap: break-word;
+    }
   }
   
-  @media (min-width: 601px) and (max-width: 768px) {
+  @media (min-width: 601px) and (max-width: 910px) {
     .relax-page {
       flex-direction: column;
       align-items: center;
@@ -84,11 +92,43 @@
     .container {
       width: 80%;
     }
+
+    p{
+      color: white;
+      font-size: 14px;
+      line-height: 1.25rem;
+      overflow-wrap: break-word;
+
+    }
+
+    h2{
+      color: white;
+      font-size: 20px;
+      margin-bottom: 15px;
+      font-family: "DM Serif Display", serif;
+      overflow-wrap: break-word;
+    }
   }
   
-  @media (min-width: 769px) and (max-width: 1200px) {
+  @media (min-width: 910px) and (max-width: 1200px) {
     .container {
       width: 45%;
+    }
+
+    p{
+      color: white;
+      font-size: 14px;
+      line-height: 1.4rem;
+      overflow-wrap: break-word;
+
+    }
+
+    h2{
+      color: white;
+      font-size: 25px;
+      margin-bottom: 15px;
+      font-family: "DM Serif Display", serif;
+      overflow-wrap: break-word;
     }
   }
   

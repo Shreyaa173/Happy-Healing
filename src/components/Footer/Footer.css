@@ -49,6 +49,7 @@
   margin-top: 20px;
   margin-left: 30px;
   line-height: 1.75rem;
+  overflow-wrap: break-word;
 }
 
 .foot {
@@ -83,18 +84,25 @@
   font-weight: 300;
   margin-bottom: 30px;
   line-height: 1.75rem;
+  overflow-wrap: break-word;
 }
 
-.third .search {
+.third {
   width: 20rem;
+}
+
+.search {
+  width: 20rem;
+  position: relative;
 }
 
 .search input {
   border-radius: 30px;
   border: 1px solid #ccc;
   height: 4.5rem;
-  width: 20rem;
+  width: 100%;
   padding-left: 20px;
+  padding-right: 50px;
   font-size: 1.25rem;
   color: #333;
   background-color: #f9f9f9;
@@ -116,7 +124,10 @@
   background-color: transparent;
   cursor: pointer;
   position: absolute;
-  right: 10px;
+  right: 15px;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  top: 55%;
 }
 
 .search .arrow {

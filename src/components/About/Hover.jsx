@@ -12,7 +12,7 @@ function HoverCard(props) {
                  
         </div>
         <div className="back-card">
-          <span>
+          <span className="about-p">
               {props.details}
               <br />
             </span>
