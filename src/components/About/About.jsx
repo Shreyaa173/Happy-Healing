@@ -12,7 +12,7 @@ const Home = () => {
           <div className={styles.cardMain}>
             <HoverCard
               name="Our Mission"
-              details="Our mission is to create a supportive online community that empowers individuals on their mental health journeys. Through engaging resources and our cute turtle mascot, we aim to make mental health accessible and relatable, fostering a sense of belonging and well-being for everyone seeking support."
+              details="We aim to create a supportive online community that empowers individuals on their mental health journey. Through engaging resources and our cute turtle mascot, we together unstigmatize mental health, fostering a sense of belonging and well-being for everyone seeking support."
             />
           </div>
 
@@ -26,7 +26,7 @@ const Home = () => {
           <div className={styles.cardMain}>
             <HoverCard
               name="Our Objective"
-              details="We aim to provide accessible resources and promote mindfulness practices that enhance emotional well-being. By fostering a supportive community and raising awareness about mental health, we engage users through our cute turtle mascot, regularly update content, and encourage feedback to create a relatable and tailored experience for everyone."
+              details="1 in 5 people suffer from mental illnesses every year!! This drives us to provide accessible resources enhancing emotional well-being. We foster a supportive community and raising awareness about mental health, regularly update content, and encourage feedback to create a relatable and tailored experience for everyone."
             />
           </div>
         </div>
