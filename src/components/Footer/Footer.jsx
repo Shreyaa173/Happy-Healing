@@ -75,7 +75,7 @@ function Footer() {
                   <input
                     type="text"
                     placeholder="Enter your email"
-                    spellcheck="false"
+                    spellCheck="false"
                   />
                   <button>
                     <box-icon name="right-arrow-alt"></box-icon>
