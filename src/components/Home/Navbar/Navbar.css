@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
+/* Navbar styles */
 .nav {
     height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0;
     padding: 10px 40px;
     position: fixed;
     top: 0;
@@ -13,45 +11,40 @@
     z-index: 1000;
     background-color: #f8f4ff;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-.back-arrow {
+  }
+  
+  .back-arrow {
     font-size: 20px;
     cursor: pointer;
     padding: 0 10px;
   }
-
-.logo p{
+  
+  .logo p {
     color: #472e5c;
-}
-
-.logo img {
-  width: 6.77vw;
-  margin-top: -0.52vw;
-}
-
-.navItems ul{
+  }
+  
+  .navItems ul {
     display: flex;
     justify-content: space-between;
-}
-
-.navItems ul .list{
-    text-decoration: none;
+  }
+  
+  .navItems ul .list {
     display: flex;
     padding-left: 0;
-}
-
-.navItems ul .list a{
+  }
+  
+  .navItems ul .list a {
     text-decoration: none;
     color: #472e5c;
     padding-left: 50px;
-}
-
-.navItems ul .list a:hover{
+  }
+  
+  .navItems ul .list a:hover {
     font-weight: 600;
-}
-
-.button button{
+  }
+  
+  /* Button styles */
+  .button button {
     width: 100px;
     height: 40px;
     background-color: #b690d7;
@@ -62,15 +55,64 @@
     cursor: pointer;
     margin-top: 5px;
     color: white;
-}
-
-.button button a{
+  }
+  
+  .button button a {
     color: #472e5c;
     text-decoration: none;
-}
-
-.button button:hover{
+  }
+  
+  .button button:hover {
     background-color: #b690d7;
     font-weight: 700;
-}
+  }
   
+  /* Hamburger styles for smaller screens */
+  .hamburger {
+    font-size: 30px;
+    display: none;
+    cursor: pointer;
+  }
+  
+  /* Hide navigation items on smaller screens */
+  .navItems {
+    display: flex;
+  }
+  
+  @media (max-width: 1000px) {
+    .navItems {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      top: 70px;
+      right: 0;
+      width: 100%;
+      background-color: #f8f4ff;
+      z-index: 999;
+    }
+  
+    .navItems.show {
+      display: flex;
+    }
+  
+    .navItems ul {
+      flex-direction: column;
+      align-items: center;
+      padding: 0;
+    }
+  
+    .navItems ul .list a {
+      padding: 20px 0;
+      width: 100%;
+      text-align: center;
+      font-size: 18px;
+    }
+  
+    .hamburger {
+      display: block;
+    }
+  
+    .button {
+      display: none;
+    }
+  }  
