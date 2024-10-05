@@ -109,6 +109,6 @@ Go to the project directory
 ```
 
 ##
-Thankyou for visiting our project. 
-Love, 
+Thankyou for visiting our project.  
+Love,  
 Team Happy Healing!
