@@ -63,7 +63,7 @@ Your well-being deserves the best care, and Happy Healing is here to guide you. 
 3. HTML
 4. React Router
 5. Redux
-6. Versel
+6. Vercel
 7. Vite
 
 
